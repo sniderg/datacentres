@@ -148,7 +148,7 @@
         labels: model.years,
         datasets: bandDatasets(scenario, "operating_gw", 1),
       },
-      options: chartOptions(" GW", "Operating capacity (GW)"),
+      options: chartOptions("", "Operating capacity (GW)"),
     });
     intensityChart = new Chart(document.getElementById("chart-outlook-intensity"), {
       type: "line",
