@@ -103,7 +103,7 @@
     return datasets;
   }
 
-  function chartOptions(unit) {
+  function chartOptions(unit, yAxisTitle) {
     return {
       responsive: true,
       maintainAspectRatio: false,
@@ -113,6 +113,12 @@
         y: {
           beginAtZero: true,
           grid: { color: "#e2e8f0" },
+          title: {
+            display: true,
+            text: yAxisTitle,
+            color: "#536579",
+            font: { family: "Inter", size: 12, weight: "600" },
+          },
           ticks: { callback: (value) => `${value}${unit}` },
         },
       },
@@ -142,7 +148,7 @@
         labels: model.years,
         datasets: bandDatasets(scenario, "operating_gw", 1),
       },
-      options: chartOptions(" GW"),
+      options: chartOptions(" GW", "Operating capacity (GW)"),
     });
     intensityChart = new Chart(document.getElementById("chart-outlook-intensity"), {
       type: "line",
@@ -154,7 +160,7 @@
           2,
         ),
       },
-      options: chartOptions(""),
+      options: chartOptions("", "MW per 1,000 residents"),
     });
   }
 
