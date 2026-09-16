@@ -117,6 +117,12 @@ Four chains are checked for convergence and divergences. A fixed random 20% samp
 """),
 md("""### PyMC hierarchy printout
 
+#### How unknown project sizes are estimated
+
+Log capacity has a shared intercept, partially pooled stage and operator effects, a standardized acreage effect and residual uncertainty. Political variables do not predict project size.
+
+**Validation caveat.** Validation covered 86.5% of held-out projects in the nominal 90% interval, but aggregate held-out capacity was overpredicted. Treat totals as exploratory conditional scenarios, not calibrated forecasts.
+
 PyMC's direct Graphviz export is retained locally as `capacity_model.dot`, with a rendered hierarchy diagram below. The printout is the exact DOT source emitted by the fitted model, so the hierarchy remains inspectable even if a local Graphviz renderer is unavailable.
 
 ![PyMC model hierarchy](capacity_model.svg)
