@@ -87,23 +87,7 @@ function renderSummary() {
   const card = (title, values, note) =>
     `<div class="weighting-card"><h3>${title}</h3><div class="weighting-numbers"><span class="weighting-stat-large trump">${values[0] == null ? "—" : values[0].toFixed(1) + "%"}</span><span class="weighting-stat-large harris">${values[1] == null ? "—" : values[1].toFixed(1) + "%"}</span></div>${split(...values)}<div class="metric-note">Trump / Harris · gray = other votes</div><p>${note}</p></div>`;
   const voteTotal = sum(s.counties, "total_votes");
-  const rates = ["Trump", "Harris"].map((w) => {
-    const population = sum(
-      s.capacityCounties.filter((f) => f.county_winner === w),
-      "population_2024",
-    );
-    return population
-      ? (sum(
-          s.covered.filter((f) => f.county_winner === w),
-          "mw",
-        ) /
-          population) *
-          1000
-      : null;
-  });
-  const intensityRatio = rates[0] != null && rates[1] ? rates[0] / rates[1] : null;
   document.getElementById("weighting-cards").innerHTML =
-    `<div class="weighting-card intensity headline-metric"><h3>Reported MW per 1,000 residents</h3><div class="weighting-numbers"><span class="weighting-stat-large trump">${rates[0] == null ? "—" : rates[0].toFixed(2)}</span><span class="weighting-stat-large harris">${rates[1] == null ? "—" : rates[1].toFixed(2)}</span></div><div class="metric-note">Trump-won / Harris-won counties${intensityRatio == null ? "" : ` · ${intensityRatio.toFixed(2)}× ratio`}</div><p>Population counted once per county with known MW. ${s.capacityCounties.length} counties; ${fmtNum(sum(s.capacityCounties, "population_2024"))} residents. Unknown MW excluded; reported capacity may be incomplete. This is infrastructure intensity, not measured community harm.</p></div>` +
     card(
       "Capacity-weighted vote share",
       weighted(s.mwRows, (f) => f.mw),

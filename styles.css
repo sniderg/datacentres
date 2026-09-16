@@ -480,18 +480,6 @@ select {
   color: var(--text-muted);
   font-size: 0.875rem;
 }
-.intensity {
-  grid-column: 1/-1;
-  margin-top: 24px;
-  padding: 24px;
-  border: 1px solid #ccdbe9;
-  border-radius: 12px;
-  background: #e8eff6;
-}
-.intensity .weighting-numbers {
-  max-width: 440px;
-}
-
 /* Modelled outlook */
 .outlook-section {
   margin-top: 64px;
@@ -632,14 +620,6 @@ select {
 .model-links a {
   color: #1d4ed8;
   font-weight: 700;
-}
-.headline-metric {
-  grid-column: span 2;
-  border-color: #cbd5e1;
-  background: linear-gradient(120deg, rgba(220, 38, 38, 0.06), rgba(37, 99, 235, 0.06));
-}
-.intensity p {
-  max-width: 100ch;
 }
 .compound-table-box {
   margin: 18px 0 36px;
@@ -877,8 +857,7 @@ footer {
   .outlook-charts {
     grid-template-columns: 1fr;
   }
-  .outlook-kpi.spotlight,
-  .headline-metric {
+  .outlook-kpi.spotlight {
     grid-column: auto;
   }
   .outlook-chart {
@@ -989,10 +968,6 @@ footer {
   }
   .chart-card .chart-subtitle {
     min-height: 0;
-  }
-  .intensity {
-    grid-column: auto;
-    padding: 20px;
   }
   .weighting-stat-large {
     font-size: 2rem;
