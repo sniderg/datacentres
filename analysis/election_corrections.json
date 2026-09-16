@@ -1,0 +1,29 @@
+{
+  "08041": {
+    "county": "El Paso County, CO",
+    "trump_votes": 203933,
+    "harris_votes": 166597,
+    "total_votes": 380986,
+    "source": "https://www.sos.state.co.us/pubs/elections/Results/2024/2024BiennialAbstract.pdf",
+    "pages": [106, 107],
+    "reason": "The old row used Elbert County's tallies. Total is the sum of all twelve candidate columns in the official abstract, excluding blank/invalid ballots."
+  },
+  "17037": {
+    "county": "DeKalb County, IL",
+    "trump_votes": 22716,
+    "harris_votes": 23648,
+    "total_votes": 47570,
+    "source": "https://dekalbcountyclerkil.gov/wp-content/uploads/2024/11/11.05.2024OfficialSummaryReport.pdf",
+    "pages": [1],
+    "reason": "The old row assigned a Trump win. Official presidential rows are Harris 23648, Trump 22716, Kennedy 822, write-in 384. Total excludes 29 overvotes and 243 undervotes."
+  },
+  "29095": {
+    "county": "Jackson County, MO",
+    "trump_votes": 125610,
+    "harris_votes": 187026,
+    "total_votes": 318017,
+    "source": "https://www.sos.mo.gov/CMSImages/ElectionResultsStatistics/ActualResults-November52024.pdf",
+    "pages": [2, 6],
+    "reason": "County-wide result combines Jackson's reporting jurisdiction with the separately reported Kansas City election jurisdiction: Trump 99385+26225, Harris 91366+95660; official totals 193729+124288 include all eight presidential candidates, including the continued write-in column on page 6. The old row omitted Kansas City and reversed the county winner."
+  }
+}

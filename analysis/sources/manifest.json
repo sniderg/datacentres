@@ -1,0 +1,27 @@
+{
+  "projects.json": {
+    "url": "https://www.brockovichdatacenter.com/data-centers-map.json",
+    "retrieved_at": "2026-09-15T17:03:48.591050+00:00",
+    "sha256": "017712b36c465286413f3fbdeae119bf42c48d69a63d16544e6d45580b315cd9"
+  },
+  "election.html": {
+    "url": "https://www.ballotwire.com/electiondatavisualizations/2024-presidential-election-county-level-results-map",
+    "retrieved_at": "2026-09-15T17:03:48.931501+00:00",
+    "sha256": "0892bbe10c35b66dc3d06a8da267a17ca2f924ccef95791385494933231b5dc9"
+  },
+  "population.csv": {
+    "url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/counties/totals/co-est2024-alldata.csv",
+    "retrieved_at": "2026-09-15T17:03:49.352693+00:00",
+    "sha256": "abcc8720d669e793bbfdcd440eeec37a78db3b452adbe4ccd1eadf7c72b522b9"
+  },
+  "independent_election.csv": {
+    "url": "https://raw.githubusercontent.com/tonmcg/US_County_Level_Election_Results_08-24/master/2024_US_County_Level_Presidential_Results.csv",
+    "retrieved_at": "2026-09-15T17:13:55.253563+00:00",
+    "sha256": "538a8fbe2d7a20524b049dd1b3b9ec7e215c4433d99f91fbd7b0dea05270136a"
+  },
+  "mit_mirror.csv": {
+    "url": "https://raw.githubusercontent.com/dlb8685/us_county_election_results/main/data/raw_data/mit_election_labs__countypres_2000-2024.csv",
+    "retrieved_at": "2026-09-15T17:13:56.779926+00:00",
+    "sha256": "1a2323d8d6ebb77c6593a0403aaec680c17f53a86c1664e74dcd58d8e63c3f5a"
+  }
+}

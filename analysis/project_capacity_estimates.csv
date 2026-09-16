@@ -1,0 +1,475 @@
+id,name,status,county_winner,matched_county_fips,operator_group,mw,confidence,capacity_basis,capacity_mw_p05,capacity_mw_median,capacity_mw_p95
+stak-energy-north-slope-ak,Stak Energy North Slope Data Center,proposed,Trump,2185,Other,3000.0,reported,reported,3000.0,3000.0,3000.0
+core-scientific-auburn-al,Core Scientific Auburn Data Center (AUBix),under_construction,Trump,1081,Other,16.0,confirmed,reported,16.0,16.0,16.0
+google-jackson-county-stevenson-al,Google Jackson County Campus,operational,Trump,1071,Google,,confirmed,model estimate,127.49705602458992,527.8155966420361,2031.465814060049
+meta-huntsville-al,Meta Huntsville Data Center Campus,operational,Trump,1089,Meta,,confirmed,model estimate,32.30715962394724,328.72635019284155,3007.0656494589193
+meta-montgomery-al,Meta Montgomery Data Center,under_construction,Harris,1101,Meta,,confirmed,model estimate,30.12428722744126,315.65808414859686,3168.838414189566
+nebius-bhm01-birmingham-al,Nebius Birmingham AI Factory (BHM01),under_construction,Harris,1073,Other,300.0,confirmed,reported,300.0,300.0,300.0
+qts-marvel-bessemer-al,QTS Bessemer (Project Marvel),proposed,Harris,1073,QTS,1200.0,reported,reported,1200.0,1200.0,1200.0
+avaio-digital-leo-little-rock-ar,AVAIO Digital Leo Campus,proposed,Harris,5119,Other,1000.0,confirmed,reported,1000.0,1000.0,1000.0
+google-west-memphis-ar,Google West Memphis Data Center Campus,under_construction,Harris,5035,Google,,confirmed,model estimate,312.8492131986114,1264.1241121247915,4763.627566930123
+undisclosed-lollie-road-conway-ar,Lollie Road Data Center Campus,proposed,Trump,5045,Other,,reported,model estimate,211.49412764972132,796.7470733568316,3159.4525184052172
+serverfarm-clarksville-ar,Serverfarm Clarksville Campus (ARK),under_construction,Trump,5071,Other,,confirmed,model estimate,62.79269393898855,229.38530918622254,912.7093109876843
+aws-laveen-az,AWS Laveen Data Center Campus,proposed,Trump,4013,Amazon,,reported,model estimate,88.02814251577135,334.43268539624546,1269.1305750980587
+aligned-phx-01-02-03-az,Aligned PHX-01/02/03,operational,Trump,4013,Other,,reported,model estimate,32.11883736059634,119.60781417853804,438.98138923652294
+aligned-phx13-glendale-az,Aligned PHX-13,under_construction,Trump,4013,Other,72.0,confirmed,reported,72.0,72.0,72.0
+apple-mesa-az,Apple Mesa Data Center (Global Command Center),operational,Trump,4013,Other,,confirmed,model estimate,41.7310638518788,160.37102368150676,651.3487516597987
+tract-buckeye-tech-corridor-az,Buckeye Tech Corridor,permitted,Trump,4013,Other,1800.0,reported,reported,1800.0,1800.0,1800.0
+digital-realty-phx15-az,Digital Realty PHX15,operational,Trump,4013,Digital Realty,,reported,model estimate,38.54464330068624,403.8126282264953,3672.6552314286223
+edgecore-mesa-az,EdgeCore Mesa Data Center Campus,operational,Trump,4013,Other,450.0,confirmed,reported,450.0,450.0,450.0
+edged-mesa-az,Edged Mesa Data Center,operational,Trump,4013,Other,,reported,model estimate,41.01786479908687,395.443568208325,3607.3120193545055
+google-redhawk-mesa-az,Google Redhawk Mesa Data Center Campus,operational,Trump,4013,Google,400.0,confirmed,reported,400.0,400.0,400.0
+arizona-land-consulting-hassayampa-ranch-tonopah-az,Hassayampa Ranch Data Center,proposed,Trump,4013,Other,1500.0,reported,reported,1500.0,1500.0,1500.0
+vermaland-la-osa-eloy-az,La Osa Data Center Park,cancelled,Trump,4021,Other,,reported,model estimate,608.7717307047395,2450.1303635405147,7721.600487257748
+fremont-peak-luckett-road-marana-az,Luckett Road Data Centers (Fremont Peak Properties),proposed,Harris,4019,Other,1500.0,reported,reported,1500.0,1500.0,1500.0
+meta-mesa-az,Meta Mesa Data Center,operational,Trump,4013,Meta,,confirmed,model estimate,98.02578854184097,399.1517357977868,1586.1451981965954
+microsoft-el-mirage-az,Microsoft El Mirage Data Center Campus,operational,Trump,4013,Microsoft,,confirmed,model estimate,119.62769394601388,493.08182976256364,1979.1121057781797
+microsoft-goodyear-az,Microsoft Goodyear Data Center Campus,operational,Trump,4013,Microsoft,,confirmed,model estimate,145.55847032130038,574.5244347019674,2349.646168592199
+ntt-global-mesa-az,NTT Global Data Centers Mesa — Pacific Proving Technology Park,proposed,Trump,4013,Other,360.0,reported,reported,360.0,360.0,360.0
+novva-mesa-az,Novva Mesa Data Center Campus,under_construction,Trump,4013,Other,300.0,confirmed,reported,300.0,300.0,300.0
+takanock-project-baccara-maricopa-county-az,Project Baccara,permitted,Trump,4013,Other,700.0,confirmed,reported,700.0,700.0,700.0
+beale-project-blue-pima-county-az,Project Blue,under_construction,Harris,4019,Other,,confirmed,model estimate,106.38491928619078,391.2261035144044,1517.369274798256
+beale-project-blue-tucson-az,Project Blue,under_construction,Harris,4019,Other,,confirmed,model estimate,102.69608201478266,413.3446736052567,1589.6483365516042
+stream-data-centers-phxa-phoenix-i-vii-goodyear-campus-az,"Stream Data Centers PHXA (Phoenix I-VII, Goodyear Campus)",operational,Trump,4013,Other,280.0,reported,reported,280.0,280.0,280.0
+avaio-perseus-pittsburg-ca,AVAIO Digital Perseus,permitted,Harris,6013,Other,99.0,confirmed,reported,99.0,99.0,99.0
+amazon-gilroy-ca,Amazon AWS Gilroy Data Center,under_construction,Harris,6085,Amazon,98.0,confirmed,reported,98.0,98.0,98.0
+calethos-lithium-valley-imperial-county-ca,CalEthos Lithium Valley Data Center Campus,proposed,Trump,6025,Other,,reported,model estimate,115.90452422404452,448.6013855079186,1743.257650626907
+coresite-bowers-santa-clara-ca,CoreSite Bowers Data Center,permitted,Harris,6085,Other,72.0,confirmed,reported,72.0,72.0,72.0
+coresite-la2-los-angeles-ca-ca,"CoreSite LA2 - Los Angeles, CA",operational,Harris,6037,Other,,reported,model estimate,42.16800329082119,401.0056383764406,3543.723131325082
+cyrusone-nas-lemoore-ca,CyrusOne AI Data Center at NAS Lemoore,proposed,Trump,6031,Other,100.0,confirmed,reported,100.0,100.0,100.0
+databank-san1-san-diego-ca,DataBank San Diego SAN1,operational,Harris,6073,Other,3.2,reported,reported,3.2,3.2,3.2
+ecl-csc1-santa-clara-ca,ECL CSC-1 FlexGrid AI Data Center,proposed,Harris,6085,Other,35.0,reported,reported,35.0,35.0,35.0
+raeden-grand-crossing-south-city-of-industry-ca,Grand Crossing South - Building 10,proposed,Harris,6037,Other,,reported,model estimate,46.17355861620033,417.2549880940121,3439.0582038637845
+ivcm-imperial-county-ca,Imperial Valley Computer Manufacturing AI Data Center,proposed,Trump,6025,Other,330.0,reported,reported,330.0,330.0,330.0
+prime-lax01-vernon-ca,Prime Data Centers LAX01,operational,Harris,6037,Other,,reported,model estimate,46.755657300720365,436.4459259890634,3825.2750222208547
+prime-smf02-sacramento-ca,Prime Data Centers SMF02,under_construction,Harris,6067,Other,18.0,confirmed,reported,18.0,18.0,18.0
+prologis-stem-park-zanker-road-san-jose-ca,Prologis STEM Park,proposed,Harris,6085,Other,396.0,reported,reported,396.0,396.0,396.0
+prologis-silver-creek-valley-san-jose-ca,Prologis Silver Creek Valley Road Data Center,proposed,Harris,6085,Other,99.0,reported,reported,99.0,99.0,99.0
+rb-inyokern-data-center-ca,RB Inyokern Data Center,proposed,Trump,6029,Other,99.0,reported,reported,99.0,99.0,99.0
+scalematrix-san-diego-ca,ScaleMatrix San Diego,operational,Harris,6073,Other,20.0,reported,reported,20.0,20.0,20.0
+serverfarm-lax1-el-segundo-ca,Serverfarm LAX1,operational,Harris,6037,Other,,reported,model estimate,44.05742215589399,420.73792720710026,3586.2813198321255
+blusky-ai-walsenburg-co,BluSky AI Walsenburg (Indian Pool Ranch) Modular Data Center,proposed,Trump,8055,Other,15.0,reported,reported,15.0,15.0,15.0
+coresite-de3-denver-co,CoreSite DE3,under_construction,Harris,8031,Other,60.0,confirmed,reported,60.0,60.0,60.0
+global-ai-windsor-co,Global AI Windsor Data Center (former Kodak/Carestream campus),under_construction,Trump,8123,Other,27.5,confirmed,reported,27.5,27.5,27.5
+qts-aurora-co,QTS Aurora-Denver Data Center Campus (DEN1),under_construction,Harris,8005,QTS,177.0,reported,reported,177.0,177.0,177.0
+raeden-taurus-colorado-springs-co,Raeden Project Taurus,permitted,Trump,8041,Other,50.0,confirmed,reported,50.0,50.0,50.0
+ne-edge-millstone-ct,NE Edge Millstone Nuclear Data Center,cancelled,Harris,9011,Other,300.0,confirmed,reported,300.0,300.0,300.0
+starwood-digital-project-washington-de,Project Washington (Starwood Digital Ventures),proposed,Harris,10003,Other,1200.0,reported,reported,1200.0,1200.0,1200.0
+cielo-haines-city-fl,Cielo Haines City Data Center,proposed,Trump,12105,Other,300.0,reported,reported,300.0,300.0,300.0
+dcblox-palm-coast-cls-fl,DC BLOX Palm Coast Cable Landing Station,under_construction,Trump,12035,Other,,confirmed,model estimate,40.80833372097046,414.25222388704503,3841.580336918002
+stonebridge-fort-meade-fl,Florida Ecopark AI Data Center Campus,proposed,Trump,12105,Other,1200.0,reported,reported,1200.0,1200.0,1200.0
+metrobloks-mia-a1-miami-fl,Metrobloks MIA-A1 (MB01),proposed,Trump,12086,Other,15.2,confirmed,reported,15.2,15.2,15.2
+project-tango-loxahatchee-fl,Project Tango AI Data Center Campus,cancelled,Harris,12099,Other,,reported,model estimate,83.88920623178716,318.3014909548575,1269.805685862053
+aws-butts-county-ga,AWS Butts County Data Center Campus,proposed,Trump,13035,Amazon,,confirmed,model estimate,42.634793343544054,396.0803233956278,3587.3552726722473
+aligned-atl-01-lithia-springs-ga,Aligned Data Centers ATL-01,operational,Harris,13097,Other,,reported,model estimate,44.08000951914949,410.2571891438131,3694.117827661924
+4am-burkhalter-road-statesboro-ga,Burkhalter Road Data Center,proposed,Trump,13031,Other,,reported,model estimate,19.693316645860808,74.83561107489876,279.6488228226986
+dcblox-atlanta-east-conyers-ga,DC BLOX Atlanta East Hyperscale Data Center Campus,under_construction,Harris,13247,Other,216.0,reported,reported,216.0,216.0,216.0
+dc-blox-atlanta-west-ga,DC BLOX Atlanta West (ATL1),under_construction,Harris,13097,Other,120.0,confirmed,reported,120.0,120.0,120.0
+databank-indo-cartersville-ga,DataBank Project Indo,proposed,Trump,13015,Other,200.0,reported,reported,200.0,200.0,200.0
+edged-atlanta-tilford-yard-ga,Edged Atlanta (ATL01),operational,Harris,13121,Other,168.0,reported,reported,168.0,168.0,168.0
+flexential-atlanta-douglasville-1-ga,Flexential Atlanta - Douglasville 1,operational,Harris,13097,Other,,reported,model estimate,40.70921102865091,398.24197615591464,3512.818210231516
+grindcap-marietta-bells-ferry-ga,GrindCap Marietta Campus (Bells Ferry Road),proposed,Harris,13067,Other,108.0,confirmed,reported,108.0,108.0,108.0
+meta-stanton-springs-newton-ga,Meta Newton Data Center (Stanton Springs),operational,Harris,13217,Meta,,reported,model estimate,30.50697826605606,321.64807005972057,3275.5291377841327
+microsoft-firecracker-rome-ga,"Microsoft Data Center Campus – Rome, GA",permitted,Trump,13115,Microsoft,,reported,model estimate,126.18254793037858,474.2163786422035,1861.1943790536297
+microsoft-douglasville-ga,Microsoft Douglasville Data Center Campus,under_construction,Harris,13097,Microsoft,,confirmed,model estimate,59.51520225135145,235.32456068832877,885.0620102536565
+microsoft-fairwater-fayetteville-ga,Microsoft Fairwater Atlanta (Azure AI Superfactory),operational,Trump,13113,Microsoft,1500.0,confirmed,reported,1500.0,1500.0,1500.0
+microsoft-tyrone-ga,Microsoft Tyrone Campus (Project Rita),permitted,Trump,13113,Microsoft,96.0,confirmed,reported,96.0,96.0,96.0
+northern-data-maysville-ga,Northern Data Maysville HPC Campus,proposed,Trump,13157,Other,180.0,confirmed,reported,180.0,180.0,180.0
+openai-project-camellia-effingham-ga,Project Camellia (OpenAI Effingham County Campus),proposed,Trump,13103,Other,3200.0,confirmed,reported,3200.0,3200.0,3200.0
+prologis-project-sail-coweta-ga,Project Sail – Prologis Data Center Campus,permitted,Trump,13077,Other,900.0,confirmed,reported,900.0,900.0,900.0
+qts-blue-hole-blakely-ga,QTS Project Blue Hole,permitted,Trump,13099,QTS,1000.0,confirmed,reported,1000.0,1000.0,1000.0
+qts-eisenhower-augusta-ga,QTS Project Eisenhower,under_construction,Harris,13245,QTS,,confirmed,model estimate,64.97235985367148,271.7447132895427,1054.7167535412568
+tpa-social-circle-technology-park-ga,Social Circle Technology Park,proposed,Harris,13217,Other,,reported,model estimate,110.10008071835102,453.9169126406908,1780.1539940108378
+switch-atlanta-the-keep-ga,Switch Atlanta: The KEEP,operational,Harris,13097,Other,,reported,model estimate,40.93621345514246,420.1640101129419,3624.2655443251047
+t5-atlanta-iv-palmetto-ga,T5 @ Atlanta IV,proposed,Harris,13121,Other,300.0,reported,reported,300.0,300.0,300.0
+white-oak-technology-park-columbia-county-ga,White Oak Technology Park,permitted,Trump,13073,Other,,confirmed,model estimate,474.8527659785306,1784.504317944361,6079.689770387136
+servpac-mtp2-mililani-hi,Servpac MTP Building 2,proposed,Harris,15003,Other,,confirmed,model estimate,41.80430700609271,437.356993446458,3695.145249938276
+apple-waukee-ia,Apple Waukee Data Center,operational,Trump,19049,Other,,confirmed,model estimate,431.2365768934751,1617.5625337209508,5646.738791522578
+google-cedar-rapids-ia,Google Cedar Rapids Data Center Campus,under_construction,Harris,19113,Google,,confirmed,model estimate,352.4418791146477,1361.979364116618,5184.444851410935
+google-council-bluffs-ia,Google Council Bluffs Data Center,operational,Trump,19155,Google,,confirmed,model estimate,48.25636733329288,447.5462661964008,4056.206544955537
+meta-altoona-ia,Meta Altoona Data Center Campus,operational,Harris,19153,Meta,,confirmed,model estimate,32.35133505198187,324.42429321876745,3067.489512476203
+microsoft-ginger-west-ia,Microsoft Project Ginger West Data Center,under_construction,Harris,19153,Microsoft,,reported,model estimate,65.09650421807984,258.9480361613893,1069.6319452928142
+qts-cedar-rapids-ia,QTS Cedar Rapids Data Center Campus,under_construction,Harris,19113,QTS,1050.0,confirmed,reported,1050.0,1050.0,1050.0
+qts-clinton-clinton-county-ia,QTS Clinton Data Center Campus,proposed,Trump,19045,QTS,,reported,model estimate,282.0306744321447,1180.6430956147913,4554.109278042673
+midamerican-salix-ia,Salix Data Center Site (MidAmerican),proposed,Trump,19193,Other,,rumored,model estimate,237.60159022450236,950.1788891969366,3476.9633420920936
+meta-kuna-id,Meta Kuna Data Center,under_construction,Trump,16001,Meta,,confirmed,model estimate,112.53712084257285,469.03887536983984,1924.6989157488251
+lex-portneuf-pocatello-id,Portneuf Data Center (former Hoku plant),cancelled,Trump,16005,Other,100.0,confirmed,reported,100.0,100.0,100.0
+aligned-ord-01-il,Aligned ORD-01,operational,Harris,17031,Other,,reported,model estimate,38.508215950131024,403.46914950967846,3651.83316105871
+cyrusone-chi1-chi3-aurora-il,CyrusOne CHI1-CHI3 (Aurora),operational,Harris,17043,Other,,reported,model estimate,44.79472762901238,428.791860988778,3413.901029673846
+edgeconnex-chi02-il,EdgeConneX CHI02,operational,Harris,17031,Other,,reported,model estimate,41.142487893303326,417.9212028962273,3718.8976512861664
+edged-aurora-il,Edged Chicago Campus — Aurora (ORD01),under_construction,Harris,17043,Other,72.0,confirmed,reported,72.0,72.0,72.0
+equinix-ch8-minooka-il,Equinix CH8 Minooka,proposed,Trump,17063,Other,,confirmed,model estimate,108.60444367630095,435.5892924448417,1622.2265500693388
+hut8-batavia-il,Hut 8 Batavia Data Center,under_construction,Harris,17089,Other,50.0,confirmed,reported,50.0,50.0,50.0
+hydravault-chicago-il,HydraVault Chicago,under_construction,Harris,17031,Other,20.0,confirmed,reported,20.0,20.0,20.0
+joliet-technology-center-il,Joliet Technology Center,permitted,Harris,17197,Other,1800.0,confirmed,reported,1800.0,1800.0,1800.0
+lambda-chicago-edgeconnex-il,Lambda Chicago EdgeConneX AI Factory,under_construction,Harris,17031,Other,23.0,confirmed,reported,23.0,23.0,23.0
+hut8-logan-prairie-latham-il,Logan Prairie Data Center,proposed,Trump,17107,Other,500.0,reported,reported,500.0,500.0,500.0
+eagle-rock-meridian-technology-park-taylorville-il,Meridian Technology Park,proposed,Trump,17021,Other,1000.0,reported,reported,1000.0,1000.0,1000.0
+meta-dekalb-data-center-il,Meta DeKalb Data Center,operational,Harris,17037,Meta,,confirmed,model estimate,34.8258425354298,324.4784464390889,3270.07116913261
+ntt-chicago-ch2-data-center-il,NTT Chicago CH2 Data Center,operational,Harris,17043,Other,,reported,model estimate,44.36618833592426,422.84323588697237,3527.495823113075
+project-cardinal-yorkville-il,Project Cardinal Data Center Campus,permitted,Harris,17093,Other,1800.0,confirmed,reported,1800.0,1800.0,1800.0
+t5-chicago-iv-grayslake-il,T5 Chicago IV (CHI IV),under_construction,Harris,17097,Other,1200.0,confirmed,reported,1200.0,1200.0,1200.0
+chirisa-volo-data-center-il,Volo Data Center,operational,Harris,17097,Other,,reported,model estimate,29.557284846212625,114.92089707487851,423.3145024038551
+aws-hobart-in,AWS Hobart Campus,under_construction,Harris,18089,Amazon,2400.0,confirmed,reported,2400.0,2400.0,2400.0
+aws-wheatfield-in,AWS Wheatfield Campus (Project Rise),permitted,Trump,18073,Amazon,,confirmed,model estimate,109.29499629314262,446.53883495755275,1903.435824474929
+amazon-project-rainier-new-carlisle-in,Amazon Project Rainier,operational,Harris,18141,Amazon,2200.0,confirmed,reported,2200.0,2200.0,2200.0
+coreweave-digital-crossroads-hammond-in,CoreWeave Digital Crossroads,cancelled,Harris,18089,Other,180.0,confirmed,reported,180.0,180.0,180.0
+dc-blox-warren-township-marion-county-in,DC BLOX Warren Township Data Center,permitted,Harris,18097,Other,78.0,confirmed,reported,78.0,78.0,78.0
+google-fort-wayne-in,Google Fort Wayne Data Center (Project Zodiac),operational,Trump,18003,Google,,confirmed,model estimate,207.40433422235398,817.2731093713446,3400.6985808814047
+google-project-louie-monrovia-in,Google Project Louie (Morgan County),under_construction,Trump,18109,Google,390.0,confirmed,reported,390.0,390.0,390.0
+jefferson-proving-ground-data-center-jefferson-county-in,Jefferson Proving Ground Data Center,permitted,Trump,18077,Other,,reported,model estimate,190.38734234661823,728.7018831333509,2809.155823313342
+meta-jeffersonville-in,Meta Jeffersonville Data Center,under_construction,Trump,18019,Meta,407.0,confirmed,reported,407.0,407.0,407.0
+meta-lebanon-in,Meta Lebanon (Project Domino),under_construction,Trump,18011,Meta,1000.0,confirmed,reported,1000.0,1000.0,1000.0
+microsoft-granger-in,Microsoft Granger Data Center,under_construction,Harris,18141,Microsoft,1000.0,reported,reported,1000.0,1000.0,1000.0
+microsoft-laporte-in,Microsoft La Porte Data Center,under_construction,Trump,18091,Microsoft,,confirmed,model estimate,134.58663179416223,521.2129828823439,2080.288307136231
+project-shirley-eagle-creek-township-lake-county-in,Project Shirley,proposed,Harris,18089,Other,500.0,reported,reported,500.0,500.0,500.0
+sabey-decatur-technology-park-marion-county-in,Sabey Decatur Technology Park,permitted,Harris,18097,Other,250.0,confirmed,reported,250.0,250.0,250.0
+beale-gardner-johnson-county-ks,Beale Infrastructure Gardner Campus,proposed,Harris,20091,Other,,reported,model estimate,108.0298964325445,433.989467388516,1661.2937050445573
+beale-project-pilot-de-soto-ks,Beale Project Pilot (De Soto),under_construction,Harris,20091,Other,,confirmed,model estimate,107.31574404548303,397.9077316007465,1571.1178490021493
+kanza-flint-hills-digital-campus-emporia-ks,Flint Hills Digital Campus,proposed,Trump,20111,Other,,reported,model estimate,273.67387629535807,1036.2347654211553,3978.593697859275
+alcove-project-catalyst-osawatomie-ks,Project Catalyst,proposed,Trump,20121,Other,500.0,reported,reported,500.0,500.0,500.0
+cave-point-commerce-center-cave-city-ky,Cave Point Commerce Center,proposed,Trump,21009,Other,,reported,model estimate,196.044850076662,727.8109440821855,2734.9194857645102
+terawulf-hawesville-ky,Justified Data Campus,under_construction,Trump,21091,Other,401.0,confirmed,reported,401.0,401.0,401.0
+powerhouse-louisville-ky,PowerHouse Data Centers – Louisville (Camp Ground Road),under_construction,Harris,21111,Other,402.0,reported,reported,402.0,402.0,402.0
+tenkey-franklin-ky,TenKey LandCo Project Lionsgate – Franklin Data Center,proposed,Trump,21213,Other,,reported,model estimate,89.93995827426322,325.9378679965713,1185.2526936742966
+terawulf-muskie-eastpark-ky,TeraWulf Muskie Data Campus (EastPark),proposed,Trump,21089,Other,1000.0,confirmed,reported,1000.0,1000.0,1000.0
+aws-benton-bossier-parish-la,Amazon Web Services Bossier Parish Campus (Benton),under_construction,Trump,22015,Amazon,,confirmed,model estimate,39.25820552028149,411.5061245736921,3504.0577621112648
+aws-blanchard-caddo-parish-la,Amazon Web Services Caddo Parish Campus (Blanchard),under_construction,Harris,22017,Amazon,,confirmed,model estimate,39.39701044916496,404.8153571944598,3795.31163314362
+applied-digital-delta-forge-1-la,Applied Digital Delta Forge 1 AI Factory Campus,under_construction,Trump,22079,Other,300.0,confirmed,reported,300.0,300.0,300.0
+stack-bossier-parish-la,Bossier Parish Campus (with Amazon),under_construction,Trump,22015,Other,,confirmed,model estimate,40.92357503753224,409.1871266567306,3765.3933896221333
+stack-caddo-parish-la,Caddo Parish Campus (with Amazon),under_construction,Harris,22017,Other,,confirmed,model estimate,41.31346387226688,420.416344440496,3700.9313459970767
+hut8-river-bend-west-feliciana-la,Hut 8 River Bend AI Data Center Campus,under_construction,Trump,22125,Other,330.0,confirmed,reported,330.0,330.0,330.0
+meta-hyperion-richland-parish-la,Meta Hyperion,under_construction,Trump,22083,Meta,2000.0,reported,reported,2000.0,2000.0,2000.0
+coresite-bo1-boston-ma-ma,"CoreSite BO1 - Boston, MA",operational,Harris,25017,Other,,reported,model estimate,40.00570050934203,423.83927408581485,3975.061592510803
+markley-lowell-ma,Markley Group One Lowell Data Center,operational,Harris,25017,Other,,confirmed,model estimate,40.96411924912695,426.9323664565692,3781.5623895243098
+aws-calvert-cliffs-md,AWS Calvert County Data Center Campus,cancelled,Trump,24009,Amazon,,reported,model estimate,40.968394980025884,423.7803836496357,3818.839915148888
+aligned-quantum-frederick-md,Aligned Data Centers IAD-04 Frederick,under_construction,Harris,24021,Other,72.0,confirmed,reported,72.0,72.0,72.0
+aligned-iad-06-frederick-md,Aligned Data Centers IAD-06 Frederick,under_construction,Harris,24021,Other,72.0,confirmed,reported,72.0,72.0,72.0
+lerner-brightseat-tech-park-md,Brightseat Tech Park,permitted,Harris,24033,Other,820.0,confirmed,reported,820.0,820.0,820.0
+rowan-digital-frederick-md,Rowan Digital Infrastructure Frederick Campus (Bauxite I),under_construction,Harris,24021,Other,300.0,confirmed,reported,300.0,300.0,300.0
+terawulf-morgantown-charles-county-md,TeraWulf Morgantown Generating Station AI Campus,proposed,Harris,24017,Other,1000.0,confirmed,reported,1000.0,1000.0,1000.0
+liquidcool-loring-afb-me,Loring LiquidCool Data Center (Green 4 Maine Campus),proposed,Trump,23003,Other,50.0,confirmed,reported,50.0,50.0,50.0
+sentinel-jay-me,"Sentinel Data Centers Androscoggin Mill Campus, Jay",cancelled,Trump,23007,Other,82.0,reported,reported,82.0,82.0,82.0
+wiscasset-proposed-me,Wiscasset Data Center (Old Ferry Road Site),proposed,Harris,23015,Other,,reported,model estimate,82.54588946559927,318.5464907700104,1250.5395547915557
+alterra-marshall-technology-energy-center-mi,Marshall Technology & Energy Center,proposed,Trump,26025,Other,,reported,model estimate,106.09041271662402,410.7289016073973,1526.5609673585168
+project-cannoli-van-buren-township-wayne-county-mi,Project Cannoli,proposed,Harris,26163,Google,1000.0,confirmed,reported,1000.0,1000.0,1000.0
+verrus-project-flex-lyon-township-oakland-county-mi,Project Flex,proposed,Harris,26125,Other,,reported,model estimate,78.24518940558046,292.2760607539062,1119.053424482737
+stargate-saline-township-mi,Stargate The Barn Campus,under_construction,Harris,26161,Other,1400.0,reported,reported,1400.0,1400.0,1400.0
+switch-pyramid-campus-grand-rapids-mi,Switch Pyramid Campus,under_construction,Harris,26081,Other,320.0,confirmed,reported,320.0,320.0,320.0
+thor-equities-augusta-township-mi,Thor Equities Augusta Township Data Center (Form8tion),cancelled,Harris,26161,Other,,reported,model estimate,233.62216101142442,904.0177319065269,3604.6099568177046
+amazon-becker-mn,Amazon Becker Data Center (Suspended),cancelled,Trump,27141,Amazon,,confirmed,model estimate,118.0897835321522,469.7917259776136,1901.8816116988246
+google-hermantown-mn,Google Hermantown Data Center Campus,proposed,Harris,27137,Google,700.0,confirmed,reported,700.0,700.0,700.0
+google-skyway-pine-island-mn,Google Project Skyway (Pine Island),proposed,Trump,27049,Google,,confirmed,model estimate,46.212859208184824,491.9615218742068,4190.5260210452425
+meta-rosemount-mn,Meta Rosemount Data Center,under_construction,Harris,27037,Meta,75.0,confirmed,reported,75.0,75.0,75.0
+geronimo-nobles-county-powered-data-park-mn,Nobles County Powered Data Park,proposed,Trump,27105,Other,400.0,reported,reported,400.0,400.0,400.0
+aws-green-new-florence-mo,AWS Project Green Campus,under_construction,Trump,29139,Amazon,,confirmed,model estimate,256.1247087990463,972.9287619546076,3680.7750241576755
+cloverleaf-troy-mo,Cloverleaf Troy Campus,proposed,Trump,29113,Other,500.0,reported,reported,500.0,500.0,500.0
+crusoe-warrenton-mo,Crusoe Warrenton Campus,permitted,Trump,29219,Other,,reported,model estimate,122.15407353334089,489.8701547354783,1923.3027488694177
+google-project-mica-kc-northland-mo,Google Project Mica,under_construction,Trump,29047,Google,500.0,confirmed,reported,500.0,500.0,500.0
+google-spade-new-florence-mo,Google Project Spade Campus,under_construction,Trump,29139,Google,1200.0,confirmed,reported,1200.0,1200.0,1200.0
+lambda-kansas-city-mo,Lambda Kansas City AI Supercomputer,under_construction,Trump,29165,Other,100.0,confirmed,reported,100.0,100.0,100.0
+meta-kansas-city-northland-mo,Meta Kansas City Northland,operational,Trump,29047,Meta,,confirmed,model estimate,31.051143779518878,320.51800163826846,3090.2683613882446
+metrobloks-liberty-mo,Metrobloks Liberty Campus,proposed,Trump,29047,Other,150.0,reported,reported,150.0,150.0,150.0
+nebius-independence-mo,Nebius AI Factory (Independence),under_construction,Harris,29095,Other,1200.0,confirmed,reported,1200.0,1200.0,1200.0
+patmos-kansas-city-mo,Patmos KC Star Building Campus,operational,Harris,29095,Other,35.0,reported,reported,35.0,35.0,35.0
+lumon-marshfield-mo,Rifle Range Road Data Center,under_construction,Trump,29225,Other,,reported,model estimate,5.522337604600676,20.76348721130154,77.64862096073855
+avaio-taurus-brandon-ms,AVAIO Digital Taurus,under_construction,Trump,28121,Other,116.0,confirmed,reported,116.0,116.0,116.0
+aws-project-atlas-madison-county-ms,AWS Project Atlas – Madison County Campus,under_construction,Trump,28089,Amazon,1000.0,confirmed,reported,1000.0,1000.0,1000.0
+compass-lauderdale-meridian-ms,Compass Datacenters Lauderdale County Hyperscale Campus,under_construction,Trump,28075,Other,500.0,confirmed,reported,500.0,500.0,500.0
+xai-southaven-ms,xAI Southaven,operational,Trump,28033,Other,2000.0,confirmed,reported,2000.0,2000.0,2000.0
+quantica-bsdi-billings-mt,Big Sky Digital Infrastructure Campus,proposed,Trump,30111,Other,1000.0,reported,reported,1000.0,1000.0,1000.0
+aws-richmond-county-nc,Amazon Web Services Richmond County Data Center Campus,under_construction,Trump,37153,Amazon,,confirmed,model estimate,209.5112952476282,854.164620406807,3369.7760744548455
+apple-maiden-nc,Apple Maiden Data Center (iCloud),operational,Trump,37035,Other,,confirmed,model estimate,77.19198894273492,296.17113044750147,1122.2014985997691
+compass-statesville-nc,Compass Statesville Campus,proposed,Trump,37097,Other,500.0,confirmed,reported,500.0,500.0,500.0
+deep-river-data-cumnock-lee-county-nc,"Deep River Data AI Data Center (Cumnock, Lee County)",proposed,Trump,37105,Other,,reported,model estimate,47.860297015644264,438.3847965549378,3770.0860434338597
+digital-realty-charlotte-nc,Digital Realty Moores Chapel Data Center Campus,permitted,Harris,37119,Digital Realty,400.0,confirmed,reported,400.0,400.0,400.0
+google-lenoir-nc,Google Lenoir Data Center,operational,Trump,37027,Google,,confirmed,model estimate,43.851575940673996,443.98397072906397,3938.8010144519044
+impactdata-greensboro-nc,ImpactData Greensboro,under_construction,Harris,37081,Other,20.0,reported,reported,20.0,20.0,20.0
+meta-forest-city-nc,Meta Forest City Data Center,operational,Trump,37161,Meta,,confirmed,model estimate,45.13342164624194,199.0610715410948,811.8122680932809
+microsoft-person-county-roxboro-nc,Microsoft Person County Mega Park,permitted,Trump,37145,Microsoft,,confirmed,model estimate,325.56838092373533,1268.1446688297565,4778.917868460092
+natelli-new-hill-nc,Natelli New Hill Digital Campus,cancelled,Harris,37183,Other,300.0,reported,reported,300.0,300.0,300.0
+prsm-group-cumberland-county-nc,PRSM Group Cumberland County AI Data Center (undisclosed industrial park),proposed,Harris,37051,Other,225.0,reported,reported,225.0,225.0,225.0
+pointone-lower-moncure-road-lee-county-nc,PointOne Lower Moncure Road Data Center (Lee County),proposed,Trump,37105,Other,90.0,reported,reported,90.0,90.0,90.0
+powerhouse-charlotte-nc,PowerHouse Charlotte Campus,under_construction,Harris,37119,Other,300.0,confirmed,reported,300.0,300.0,300.0
+project-delta-walnut-cove-nc,Project Delta Data Center – Stokes County,proposed,Trump,37169,Other,,reported,model estimate,422.9119099687345,1596.928504202702,5560.601919575231
+quiet-data-centers-enfield-halifax-county-nc,Project Q — Quiet Data Centers Enfield (Halifax County),proposed,Harris,37083,Other,88.0,reported,reported,88.0,88.0,88.0
+drox-group-rural-hall-forsyth-county-nc,Rural Hall Data Center (The Drox Group),proposed,Harris,37067,Other,,reported,model estimate,60.04283206942041,225.94068530870814,853.672286676211
+terra-nexus-custer-avenue-fayetteville-cumberland-county-nc,Terra Nexus Custer Avenue Data Center (Fayetteville),proposed,Harris,37051,Other,,reported,model estimate,80.86174935359716,299.6837985193506,1134.9673707377517
+whitefiber-nc1-madison-nc,WhiteFiber NC-1 AI Data Center Campus,operational,Trump,37157,Other,200.0,confirmed,reported,200.0,200.0,200.0
+applied-digital-polaris-forge-1-ellendale-nd,Applied Digital Polaris Forge 1,under_construction,Trump,38021,Other,400.0,confirmed,reported,400.0,400.0,400.0
+applied-digital-polaris-forge-2-harwood-nd,Applied Digital Polaris Forge 2,under_construction,Trump,38017,Other,280.0,confirmed,reported,280.0,280.0,280.0
+1623-farnam-omaha-ne,1623 Farnam,operational,Harris,31055,Other,,confirmed,model estimate,41.10707436760841,439.93414195287477,3695.1753755971854
+binary-net-vault-lincoln-ne,Binary Net The Vault Data Center,operational,Harris,31109,Other,,reported,model estimate,43.84079191825115,416.11045181582574,3783.71531460372
+fnts-omaha-ne,First National Technology Solutions Omaha Data Center,operational,Harris,31055,Other,,reported,model estimate,39.00281227315155,414.0058586023258,3606.3797378089403
+google-nebraska-ai-campus-proposed,Google Nebraska AI Campus (proposed),proposed,Trump,31131,Google,1000.0,reported,reported,1000.0,1000.0,1000.0
+google-papillion-ne,Google Papillion Data Center,operational,Trump,31153,Google,,reported,model estimate,107.0417926086572,429.38659661484877,1724.8716357916278
+h5-la-vista-ne,H5 Data Centers Omaha (La Vista),operational,Trump,31153,Other,,confirmed,model estimate,20.267757822975348,80.66525824535421,312.5680032544703
+lightedge-papillion-ne,LightEdge Omaha Data Center,operational,Trump,31153,Other,,reported,model estimate,41.72601898176038,420.41774936047705,3700.136565134137
+meta-sarpy-springfield-ne,Meta Sarpy Campus (Springfield expansion),under_construction,Trump,31153,Meta,,confirmed,model estimate,113.53599198977693,464.6030132925823,1827.0957346888626
+sagebrush-hallam-hyperscale-campus-lancaster-ne,Sagebrush Hallam Hyperscale Campus (proposed),proposed,Harris,31109,Other,1700.0,reported,reported,1700.0,1700.0,1700.0
+scott-data-center-omaha-ne,Scott Data Center,operational,Harris,31055,Other,,reported,model estimate,38.55312065916088,405.3906910474709,3928.7811998070624
+tierpoint-omaha-bellevue-ne,TierPoint Omaha - Bellevue Data Center,operational,Trump,31153,Other,,reported,model estimate,45.21403631211652,413.09606442152943,3526.3281475303056
+tierpoint-omaha-midlands-papillion-ne,TierPoint Omaha - Midlands Data Center,operational,Trump,31153,Other,,reported,model estimate,41.73098202599823,433.39665359946093,3672.9641753904725
+a1-data-center-millville-nj,A1 Data Center Campus,cancelled,Trump,34011,Other,1400.0,reported,reported,1400.0,1400.0,1400.0
+andover-hpc-development-nj,Andover HPC Data Center (former Newton Airport Site),proposed,Trump,34037,Other,,reported,model estimate,50.87667012427323,189.53139472407443,752.0352003725692
+coreweave-kenilworth-nj,CoreWeave NEST Campus,under_construction,Harris,34039,Other,250.0,reported,reported,250.0,250.0,250.0
+cyrusone-nym1-somerset-nj,CyrusOne NYM1 (Somerset),operational,Harris,34035,Other,,reported,model estimate,49.008513551542,417.6376085865544,3597.439143574876
+equinix-ny5-nj,Equinix NY5,operational,Harris,34017,Other,,reported,model estimate,42.15565544191703,405.49644603100097,3414.476040274234
+nebius-vineland-nj,Nebius Vineland Data Center,operational,Trump,34011,Other,300.0,confirmed,reported,300.0,300.0,300.0
+atterix-raton-digital-hub-nm,Atterix Raton Advanced Digital Hub,proposed,Trump,35007,Other,50.0,reported,reported,50.0,50.0,50.0
+new-era-energy-digital-lea-county-data-center-nm,Lea County Data Center,proposed,Trump,35025,Other,7000.0,reported,reported,7000.0,7000.0,7000.0
+meta-los-lunas-ai-nm,Meta Los Lunas AI Expansion,under_construction,Trump,35061,Meta,,confirmed,model estimate,160.34166392529858,647.026518402102,2618.7126720373217
+stargate-project-jupiter-dona-ana-nm,Stargate Project Jupiter,under_construction,Harris,35013,Other,1000.0,reported,reported,1000.0,1000.0,1000.0
+zenith-volts-roswell-chaves-county-data-center-nm,Zenith Volts Roswell / Chaves County Data Center,permitted,Trump,35005,Other,1240.0,confirmed,reported,1240.0,1240.0,1240.0
+apple-reno-nv,Apple Reno Data Center (Reno Technology Park),operational,Harris,32031,Other,,confirmed,model estimate,386.9790309957744,1461.0366303251537,5350.737974416849
+colovore-reno-1-storey-county-nv,Colovore Reno 1 (RN01),permitted,Trump,32029,Other,,confirmed,model estimate,47.74210295789256,434.0987884210138,3501.4818057247403
+databank-las1-las-vegas-nv,DataBank LAS1,operational,Harris,32003,Other,,reported,model estimate,37.974270027444526,410.8341900535393,3725.695792944294
+edgecore-reno-campus-storey-county-nv,EdgeCore Reno Data Center Campus,under_construction,Trump,32029,Other,216.0,confirmed,reported,216.0,216.0,216.0
+fleet-data-centers-storey-county-nv,Fleet Data Centers Storey County Campus (South Valley & Peru Ridge),under_construction,Trump,32029,Other,400.0,reported,reported,400.0,400.0,400.0
+google-henderson-nv,Google Henderson Data Center,operational,Harris,32003,Google,,confirmed,model estimate,35.98611858577933,146.9561057579724,584.680630708158
+manse-technology-campus-pahrump-nv,Manse Technology Campus,proposed,Trump,32023,Other,,reported,model estimate,252.42669137484143,975.1252446406982,3552.2124701919715
+microsoft-silver-springs-lyon-county-nv,Microsoft Silver Springs Data Center Campus,proposed,Trump,32019,Microsoft,,reported,model estimate,90.55247937137555,363.27271435062545,1481.8875281652108
+microsoft-fernley-nv,Microsoft Victory Logistics District Campus,proposed,Trump,32019,Microsoft,,reported,model estimate,98.35746553281166,389.19993887860267,1485.7929502102027
+monarch-data-center-yerington-nv,Monarch Data Center,permitted,Trump,32019,Other,1000.0,confirmed,reported,1000.0,1000.0,1000.0
+novva-tahoe-reno-storey-county-nv,Novva Tahoe Reno Data Center,operational,Trump,32029,Other,60.0,confirmed,reported,60.0,60.0,60.0
+powerhouse-reno-storey-county-nv,PowerHouse Reno Campus,under_construction,Trump,32029,Other,65.0,reported,reported,65.0,65.0,65.0
+switch-apex-industrial-park-north-las-vegas-nv,Switch Apex Industrial Park Land Position,proposed,Harris,32003,Other,,reported,model estimate,117.41167248489626,461.02681773638665,1792.6871963904307
+switch-citadel-storey-county-nv,Switch CITADEL Campus,operational,Trump,32029,Other,650.0,confirmed,reported,650.0,650.0,650.0
+switch-edge-1-nv,Switch Edge 1,operational,Harris,32003,Other,,reported,model estimate,40.69408712530787,398.5576666014813,3698.9742740114343
+switch-las-vegas-10-nv,Switch Las Vegas 10,operational,Harris,32003,Other,,reported,model estimate,42.595850239109936,420.6626658263319,3950.256424608789
+switch-las-vegas-11-nv,Switch Las Vegas 11,operational,Harris,32003,Other,,reported,model estimate,39.13585271905419,411.4697670821487,3778.8490475486024
+switch-las-vegas-12-nv,Switch Las Vegas 12,operational,Harris,32003,Other,,reported,model estimate,40.120611284924294,400.0174966711149,3763.2220212618327
+switch-las-vegas-5-nv,Switch Las Vegas 5,operational,Harris,32003,Other,,reported,model estimate,41.68678445115785,405.41461768119837,3547.512588169512
+switch-las-vegas-7-nv,Switch Las Vegas 7,operational,Harris,32003,Other,,reported,model estimate,42.30162162855255,401.94516585360657,3352.0703298826115
+switch-las-vegas-9-nv,Switch Las Vegas 9,operational,Harris,32003,Other,,reported,model estimate,40.5563887601812,387.1777070850645,3574.252406239308
+switch-tahoe-reno-1-the-citadel-campus-nv,Switch Tahoe Reno 1 (The Citadel Campus),operational,Trump,32029,Other,650.0,reported,reported,650.0,650.0,650.0
+switch-tahoe-reno-2-the-citadel-campus-nv,Switch Tahoe Reno 2 (The Citadel Campus),operational,Trump,32029,Other,,reported,model estimate,43.59836611031188,418.3540444596025,3591.7211606364212
+switch-tahoe-reno-3-the-citadel-campus-nv,Switch Tahoe Reno 3 (The Citadel Campus),operational,Trump,32029,Other,,reported,model estimate,42.77920668501473,405.84059104742914,3614.683474045609
+townsite-solar-2-boulder-city-nv,Townsite Solar 2 Boulder City Data Center,proposed,Harris,32003,Other,167.0,reported,reported,167.0,167.0,167.0
+tract-silver-springs-nv,Tract Silver Springs Data Center Park,proposed,Trump,32019,Other,1600.0,reported,reported,1600.0,1600.0,1600.0
+tract-virginia-highlands-storey-county-nv,Tract Virginia Highlands Technology Park,proposed,Trump,32029,Other,2500.0,reported,reported,2500.0,2500.0,2500.0
+vantage-nv1-storey-county-nv,Vantage Data Centers NV1,under_construction,Trump,32029,Vantage,224.0,confirmed,reported,224.0,224.0,224.0
+9ldg-niagara-falls-ny,9LDG Niagara AI Data Center,proposed,Trump,36063,Other,,reported,model estimate,16.422135846165677,63.26159275558901,235.38722017208437
+digital-realty-jfk10-manhattan-ny,Digital Realty JFK10 (111 Eighth Avenue),operational,Harris,36061,Digital Realty,,confirmed,model estimate,41.18227419742121,416.40104564637807,3604.6986710179413
+niagara-digital-campus-niagara-falls-ny,Niagara Digital Campus,proposed,Trump,36063,Other,135.0,reported,reported,135.0,135.0,135.0
+nccs-nydig-massena-ny,North Country Colocation Services Massena Expansion,proposed,Trump,36089,Other,,reported,model estimate,131.60225937314112,489.1631184131977,1880.4117887728924
+ranalli-lysander-ny,Ranalli Lysander Data Center,proposed,Harris,36067,Other,300.0,rumored,reported,300.0,300.0,300.0
+riverview-innovation-tech-campus-tonawanda-ny,Riverview Innovation & Technology Campus,proposed,Harris,36029,Other,300.0,reported,reported,300.0,300.0,300.0
+terawulf-lansing-ny,"TeraWulf AI Data Center Campus, Lansing",proposed,Harris,36109,Other,400.0,confirmed,reported,400.0,400.0,400.0
+5c-group-vultr-prime-ohio-springfield-oh,5C Group / Vultr Data Center (Prime Ohio),under_construction,Trump,39023,Other,150.0,confirmed,reported,150.0,150.0,150.0
+aws-crosby-court-franklin-county-oh,AWS Crosby Court Campus,operational,Harris,39049,Amazon,,reported,model estimate,33.4975433512239,138.18310795043845,547.6230766580019
+aws-jefferson-township-fayette-oh,AWS Fayette County (Jefferson Township),under_construction,Trump,39047,Amazon,,confirmed,model estimate,39.249738094212894,396.5604649085218,3434.1916736636776
+aws-hayden-run-hilliard-oh,AWS Hayden Run Campus,operational,Harris,39049,Amazon,,reported,model estimate,30.224588297657096,118.47674535790497,453.86475122984956
+aws-industrial-parkway-jerome-township-oh,AWS Industrial Parkway Campus (Jerome Township),operational,Trump,39159,Amazon,,reported,model estimate,41.64780283574274,166.7950135193311,658.4645603646591
+aws-3180-beech-road-new-albany-oh,AWS New Albany (3180 Beech Road),operational,Trump,39089,Amazon,,reported,model estimate,46.909384268609045,192.62768916006536,756.0808960272475
+aws-newton-court-new-albany-oh,AWS New Albany (Newton Court),operational,Trump,39089,Amazon,,reported,model estimate,42.37997166967999,176.7720150697556,710.5367710551562
+aws-project-cosmos-marysville-oh,AWS Project Cosmos,under_construction,Trump,39159,Amazon,,confirmed,model estimate,29.11380193963107,119.98615644265126,463.2463738073212
+aws-galaxy-sidney-oh,"AWS Project Galaxy — Sidney, OH",under_construction,Trump,39149,Amazon,1500.0,reported,reported,1500.0,1500.0,1500.0
+aws-warner-road-jerome-township-oh,AWS Warner Road Campus (Jerome Township),operational,Trump,39159,Amazon,,reported,model estimate,43.8448383081971,171.23687306336845,681.4296660094516
+aligned-conesville-oh,Aligned Data Centers – Conesville Industrial Park,under_construction,Trump,39031,Other,,reported,model estimate,79.66633678354343,308.6345177048263,1166.6652529688147
+aligned-pataskala-licking-oh,Aligned Data Centers — Pataskala,cancelled,Trump,39089,Other,200.0,confirmed,reported,200.0,200.0,200.0
+aligned-chillicothe-ross-oh,Aligned HPC Campus at Former Pixelle Paper Mill (Chillicothe),proposed,Trump,39141,Other,,reported,model estimate,47.14559751821072,455.3359695877036,4049.6526310384925
+aligned-neo-01-oh,Aligned NEO-01,under_construction,Trump,39043,Other,96.0,reported,reported,96.0,96.0,96.0
+amazon-perry-township-stark-oh,Amazon Perry Township Data Center,under_construction,Trump,39151,Amazon,240.0,confirmed,reported,240.0,240.0,240.0
+bitdeer-clarington-oh,Bitdeer Clarington HPC/AI Campus,under_construction,Trump,39111,Other,570.0,confirmed,reported,570.0,570.0,570.0
+bitdeer-shalersville-portage-county-oh,Bitdeer Shalersville Data Center Campus,proposed,Trump,39133,Other,750.0,reported,reported,750.0,750.0,750.0
+cipher-digital-ulysses-center-township-morgan-oh,Cipher Digital Ulysses,proposed,Trump,39115,Other,200.0,reported,reported,200.0,200.0,200.0
+cologix-johnstown-oh,Cologix Johnstown AI-Ready Campus,under_construction,Trump,39089,Other,800.0,confirmed,reported,800.0,800.0,800.0
+cyrusone-cin2-cincinnati-oh,CyrusOne CIN2 (Cincinnati),operational,Harris,39061,Other,,confirmed,model estimate,44.70783332708557,423.44855225026566,3571.452928834616
+edged-columbus-new-albany-oh,Edged Columbus,operational,Harris,39049,Other,,confirmed,model estimate,11.371774126977078,44.705276581062215,176.07842641356342
+google-bosc-lima-oh,Google Project BOSC (Lima),permitted,Trump,39003,Google,,confirmed,model estimate,82.47063274530656,342.16569403859825,1354.2938099486837
+cipher-digital-hashworks-waterford-washington-oh,HashWorks Powered Land — Waterford Site,proposed,Trump,39167,Other,200.0,rumored,reported,200.0,200.0,200.0
+meta-middleton-township-oh,Meta Bowling Green (Project Accordion),under_construction,Trump,39173,Meta,,confirmed,model estimate,76.45900448739422,311.8179239659928,1257.5320936619244
+meta-prometheus-new-albany-oh,Meta Prometheus,under_construction,Trump,39089,Meta,1000.0,reported,reported,1000.0,1000.0,1000.0
+microsoft-heath-oh,Microsoft Heath Data Center,under_construction,Trump,39089,Microsoft,,confirmed,model estimate,76.7596916843423,301.42216732138127,1145.1361134077606
+microsoft-hebron-oh,Microsoft Hebron Data Center,under_construction,Trump,39089,Microsoft,,confirmed,model estimate,75.92521430458854,289.8816582679979,1154.3073609882692
+oregon-industrial-park-data-center-lucas-oh,Oregon Industrial Park Data Center Campus,proposed,Harris,39095,Vantage,500.0,reported,reported,500.0,500.0,500.0
+prologis-mila-trenton-oh,Prologis Project Mila,permitted,Trump,39017,Other,250.0,confirmed,reported,250.0,250.0,250.0
+stack-nal01-new-albany-oh,STACK Infrastructure NAL01 (New Albany),operational,Harris,39049,Other,,reported,model estimate,40.88561524855836,390.7333650630293,3490.3508774841052
+stargate-lordstown-oh,Stargate Lordstown Campus,under_construction,Trump,39155,Other,1500.0,reported,reported,1500.0,1500.0,1500.0
+vantage-oh1-new-albany-licking-county-oh,Vantage Data Centers OH1,under_construction,Trump,39089,Vantage,192.0,confirmed,reported,192.0,192.0,192.0
+vantage-oh2-millersport-fairfield-oh,Vantage Data Centers OH2 (Millersport Campus),under_construction,Trump,39045,Vantage,696.0,confirmed,reported,696.0,696.0,696.0
+bitdeer-whitetail-creek-trumbull-county-oh,Whitetail Creek Data Center,proposed,Trump,39155,Other,,reported,model estimate,40.97789639806661,416.76121336680603,3751.3113100137302
+oklahoma-ai-ventures-black-bear-noble-county-ok,Black Bear AI Data Center Campus,proposed,Trump,40103,Other,,reported,model estimate,46.41072466762131,451.4366829911969,3760.6264635370685
+cerebras-oklahoma-city-ok,Cerebras Oklahoma City Data Center,operational,Trump,40109,Other,,confirmed,model estimate,40.588846615640946,399.8683437552256,3620.7675956492603
+cloudburst-oklahoma-city-campus-ok,CloudBurst Oklahoma City Campus,proposed,Trump,40109,Other,200.0,reported,reported,200.0,200.0,200.0
+core-scientific-muskogee-ok,Core Scientific Muskogee Campus,under_construction,Trump,40101,Other,1000.0,confirmed,reported,1000.0,1000.0,1000.0
+fluidstack-okmulgee-county-ok,Fluidstack Okmulgee County Data Center,proposed,Trump,40111,Other,,confirmed,model estimate,42.12761703783893,419.5773075381906,3627.374867971354
+google-muskogee-county-ok,Google Muskogee County Data Center Campuses,proposed,Trump,40101,Google,,reported,model estimate,47.7813908728115,476.9145793658919,4000.697608818811
+google-pryor-ok,Google Pryor Data Center Campus (Mayes County Expansion),operational,Trump,40097,Google,,confirmed,model estimate,43.669159988149374,451.0358469035949,4079.471285451102
+google-stillwater-ok,Google Stillwater Data Center Campus,under_construction,Trump,40119,Google,,confirmed,model estimate,132.75984272252356,557.0955929503839,2186.5033311438974
+host-digital-northeast-oklahoma-ok,Host Digital Northeast Oklahoma Data Center,operational,Trump,40143,Other,43.0,reported,reported,43.0,43.0,43.0
+iren-woods-county-ok,IREN Woods County Campus,proposed,Trump,40151,Other,1600.0,reported,reported,1600.0,1600.0,1600.0
+isocentric-networks-tulsa-ok,Isocentric Networks Tulsa Data Center,operational,Trump,40143,Other,,reported,model estimate,42.12288264859739,421.6585743406305,3800.027580299513
+meta-anthem-tulsa-ok,Meta Project Anthem — Tulsa,under_construction,Trump,40143,Meta,,confirmed,model estimate,90.86563361550786,358.4462242560579,1451.0124881642232
+buckley-bros-pawhuska-ok,Pawhuska AI Data Center,proposed,Trump,40113,Other,10.0,reported,reported,10.0,10.0,10.0
+potentia-oklahoma-campus-02-inola-ok,Potentia Oklahoma Campus 02 (Inola),proposed,Trump,40131,Other,2000.0,reported,reported,2000.0,2000.0,2000.0
+beale-project-clydesdale-tulsa-county-ok,Project Clydesdale,under_construction,Trump,40143,Other,,confirmed,model estimate,158.31015086740578,600.4819477516273,2206.691859493656
+google-spring-sand-springs-ok,Project Spring (Sand Springs),proposed,Trump,40113,Google,,reported,model estimate,243.69239274043633,972.9197156875225,3948.3001063820284
+rack59-oklahoma-city-ok,RACK59 Data Center,operational,Trump,40109,Other,,confirmed,model estimate,41.46525558354557,418.97072846479296,3640.0217889750734
+tierpoint-oklahoma-city-ok,TierPoint Oklahoma City (OKC / OKC2),operational,Trump,40109,Other,,confirmed,model estimate,39.60325876204194,409.87388691588484,3560.933383202417
+tierpoint-tulsa-state-farm-ok,TierPoint Tulsa - State Farm,operational,Trump,40143,Other,,confirmed,model estimate,38.42886052260731,409.85155632114277,3716.8122962391217
+tulsaconnect-downtown-dc5-tulsa-ok,TulsaConnect Downtown (DC-5),operational,Trump,40143,Other,,reported,model estimate,42.199317787812134,398.2068558515864,3632.522779854536
+tulsaconnect-east-dc3-tulsa-ok,TulsaConnect East (DC-3),operational,Trump,40143,Other,,confirmed,model estimate,43.280737922996416,400.0482447900298,3855.8668694891226
+aligned-pdx-01-or,Aligned PDX-01,operational,Harris,41067,Other,,reported,model estimate,19.009918014480697,74.56702245328106,263.1845026610873
+aws-boardman-morrow-county-or,Amazon Boardman Exascale Data Center Campus,proposed,Trump,41049,Amazon,1000.0,reported,reported,1000.0,1000.0,1000.0
+crane-pdx01-forest-grove-or,Crane PDX01,under_construction,Harris,41067,Other,76.0,confirmed,reported,76.0,76.0,76.0
+flexential-portland-hillsboro-4-pdx04-or,Flexential Portland - Hillsboro 4 (PDX04),operational,Harris,41067,Other,,reported,model estimate,41.57843245397451,416.9576184711142,3537.139596115699
+google-the-dalles-or,Google The Dalles Data Center Campus,operational,Trump,41065,Google,,confirmed,model estimate,43.66475317517083,459.93120555933535,4044.7431526563573
+meta-prineville-or,Meta Prineville Data Center Campus,operational,Trump,41013,Meta,,confirmed,model estimate,67.11989480402801,280.0847344032278,1131.6746733681478
+sabey-umatilla-or,SDC Umatilla Campus,under_construction,Trump,41059,Other,150.0,reported,reported,150.0,150.0,150.0
+stack-hillsboro-or,STACK Hillsboro Campus,proposed,Harris,41067,Other,75.0,reported,reported,75.0,75.0,75.0
+aws-cumulus-salem-township-pa,"AWS Cumulus Data Center Campus, Salem Township",under_construction,Trump,42079,Amazon,960.0,confirmed,reported,960.0,960.0,960.0
+aws-falls-township-pa,"Amazon Web Services Innovation Campus, Falls Township",under_construction,Trump,42017,Amazon,,confirmed,model estimate,40.74806708745298,398.28281733914525,3451.8236860766706
+ardent-pittsburgh-mckees-rocks-pa,Ardent Data Centers Pittsburgh (McKees Rocks),operational,Harris,42003,Other,20.0,reported,reported,20.0,20.0,20.0
+breaker-street-data-center-jessup-lackawanna-pa,Breaker Street Data Center Campus,proposed,Harris,42069,Other,600.0,reported,reported,600.0,600.0,600.0
+coreweave-lancaster-pa,CoreWeave Lancaster Data Center,proposed,Trump,42071,Other,300.0,reported,reported,300.0,300.0,300.0
+flexential-philadelphia-collegeville-phl01-pa,Flexential Philadelphia - Collegeville (PHL01),operational,Harris,42091,Other,,reported,model estimate,42.69788448907572,415.7223627110784,3574.913412953435
+homer-city-energy-campus-pa,Homer City Energy Campus,under_construction,Trump,42063,Other,4500.0,reported,reported,4500.0,4500.0,4500.0
+powerhouse-pax-carlisle-pa,PAX — Pennsylvania Digital I,under_construction,Trump,42041,Other,1350.0,confirmed,reported,1350.0,1350.0,1350.0
+panther-creek-hpc-ai-campus-nesquehoning-pa,Panther Creek HPC/AI Data Center Campus,under_construction,Trump,42025,Other,,confirmed,model estimate,44.51880805535084,414.04200479342177,3643.9582721913935
+project-gravity-archbald-lackawanna-county-pa,Project Gravity,proposed,Harris,42069,Other,,reported,model estimate,78.71089329535488,306.3676516108403,1074.369149094446
+project-hazelnut-hazle-township-pa,Project Hazelnut,proposed,Trump,42079,Other,,reported,model estimate,334.99501863592764,1254.596156158248,4595.930422050216
+renaissance-park-upper-merion-king-of-prussia-pa,Renaissance Park and Innovation Data Center Campus,proposed,Harris,42091,Other,,confirmed,model estimate,42.65264037020748,410.3761830587531,3789.4873893807044
+sentinel-east-whiteland-chester-county-pa,Sentinel East Whiteland Data Center,under_construction,Harris,42029,Other,300.0,reported,reported,300.0,300.0,300.0
+slate-belt-holdings-upper-mount-bethel-northampton-pa,Slate Belt Holdings Data Center Campus (Upper Mount Bethel),proposed,Trump,42095,Other,,reported,model estimate,223.81140557884544,828.2384731725249,3318.5033582053684
+allegheny-dc-springdale-cheswick-pa,Springdale Data Center (former Cheswick Generating Station),proposed,Harris,42003,Other,180.0,confirmed,reported,180.0,180.0,180.0
+tecfusions-keystone-connect-upper-burrell-pa,TECfusions Keystone Connect,proposed,Trump,42129,Other,3000.0,confirmed,reported,3000.0,3000.0,3000.0
+talen-montour-data-center-campus-montour-county-pa,Talen Energy Montour Data Center Campus,proposed,Trump,42093,Other,,reported,model estimate,42.69299061929601,439.1259718977145,3603.1076831825476
+triboro-industrial-park-jessup-olyphant-lackawanna-county-pa,Triboro Industrial Park / Triboro Commerce Park,permitted,Harris,42069,Other,,reported,model estimate,187.0117865510312,715.5876964610331,2718.2017516143023
+wildcat-ridge-archbald-lackawanna-county-pa,Wildcat Ridge AI Data Center Campus,proposed,Harris,42069,Other,1600.0,reported,reported,1600.0,1600.0,1600.0
+ecp-york-2-energy-center-data-center-peach-bottom-york-pa,York 2 Energy Center Data Center,proposed,Trump,42133,Other,,reported,model estimate,45.73444511161999,441.7671768411203,3738.1497006334507
+hanton-city-smithfield-ri,Hanton City Business Park (data center anchor),proposed,Harris,44007,Other,,reported,model estimate,44.02133468994518,401.7205596504385,3658.472251935481
+google-moncks-corner-sc,Google Berkeley County Data Center (Moncks Corner),operational,Trump,45015,Google,,confirmed,model estimate,42.90567602542383,452.0469030261567,3828.2081673166867
+google-ridgeville-sc,Google Ridgeville Data Center (Project Dawson),under_construction,Trump,45035,Google,,confirmed,model estimate,94.16236570174546,377.46944119545014,1408.9661386663795
+google-winding-woods-st-george-sc,Google Winding Woods Campus,under_construction,Trump,45035,Google,,confirmed,model estimate,86.60861137864605,347.0106784780105,1360.1531961036153
+meta-aiken-county-sc,Meta Aiken Data Center,under_construction,Trump,45003,Meta,200.0,confirmed,reported,200.0,200.0,200.0
+northmark-spartanburg-sc,NorthMark Spartanburg Computing Center,under_construction,Trump,45083,Other,450.0,confirmed,reported,450.0,450.0,450.0
+project-boulder-colleton-county-sc,Project Boulder,proposed,Trump,45029,Other,,reported,model estimate,247.07732364129586,941.02812764911,3613.682832793065
+applied-digital-deuel-county-sd,Applied Digital Deuel County AI Campus,cancelled,Trump,46039,Other,430.0,confirmed,reported,430.0,430.0,430.0
+gemini-data-center-sioux-falls-sd,Sioux Falls Technology Park (Gemini Data Center),permitted,Trump,46099,Other,500.0,confirmed,reported,500.0,500.0,500.0
+cielo-clarksville-tn,Cielo Montgomery County AI Campus,proposed,Trump,47125,Other,350.0,reported,reported,350.0,350.0,350.0
+xai-colossus-memphis-tn,Colossus,operational,Harris,47157,Other,1200.0,reported,reported,1200.0,1200.0,1200.0
+google-montgomery-county-tn,Google Montgomery County Data Center,operational,Trump,47125,Google,,confirmed,model estimate,44.72313538449482,437.73659716692873,3754.278413850213
+meta-gallatin-tn,Meta Gallatin Data Center Campus,operational,Trump,47165,Meta,,confirmed,model estimate,179.93406604134026,716.0425284988778,3046.3535074284646
+aligned-dfw-01-tx,Aligned DFW-01,operational,Trump,48085,Other,,reported,model estimate,42.79629630741363,416.4414584160685,3389.567246336176
+aligned-dfw-03-tx,Aligned DFW-03,operational,Trump,48439,Other,,reported,model estimate,18.346752669359514,72.13105114682156,264.2765179972839
+aligned-project-caprock-hale-county-tx,Aligned Data Centers Project Caprock,under_construction,Trump,48189,Other,540.0,confirmed,reported,540.0,540.0,540.0
+blockchain-digital-infrastructure-collin-county-tx,BlockchAIn Collin County AI GPU Hosting Site,under_construction,Trump,48085,Other,,reported,model estimate,41.46065255826016,420.57809676447744,3653.1901213302394
+blockchain-digital-infrastructure-reeves-county-tx,BlockchAIn Reeves County AI GPU Hosting Site,proposed,Trump,48389,Other,,reported,model estimate,44.178246489009474,438.79696697324766,3931.6653150062334
+cipher-barber-lake-colorado-city-tx,Cipher Barber Lake Campus,under_construction,Trump,48335,Other,300.0,confirmed,reported,300.0,300.0,300.0
+cipher-black-pearl-wink-tx,Cipher Black Pearl Campus,under_construction,Trump,48495,Other,300.0,confirmed,reported,300.0,300.0,300.0
+cleanspark-austin-county-tx,CleanSpark Austin County AI Data Center Campus,proposed,Trump,48015,Other,285.0,confirmed,reported,285.0,285.0,285.0
+cleanspark-brazoria-county-tx,CleanSpark Brazoria County (Second Texas) Campus,proposed,Trump,48039,Other,300.0,reported,reported,300.0,300.0,300.0
+cloudburst-san-marcos-tx,CloudBurst San Marcos GigaCenter,under_construction,Harris,48209,Other,1200.0,reported,reported,1200.0,1200.0,1200.0
+comanche-circle-sailfish-hood-county-tx,Comanche Circle,proposed,Trump,48221,Other,2000.0,reported,reported,2000.0,2000.0,2000.0
+core-scientific-austin-tx,Core Scientific Austin Data Center (Austin 1),operational,Harris,48453,Other,200.0,confirmed,reported,200.0,200.0,200.0
+core-scientific-denton-tx,Core Scientific Denton Data Center (Denton 1),under_construction,Trump,48121,Other,260.0,confirmed,reported,260.0,260.0,260.0
+core-scientific-pecos-tx,Core Scientific Pecos AI Campus,under_construction,Trump,48389,Other,1500.0,confirmed,reported,1500.0,1500.0,1500.0
+crusoe-blue-energy-victoria-tx,Crusoe Victoria AI Factory,proposed,Trump,48469,Other,1500.0,reported,reported,1500.0,1500.0,1500.0
+cyrusone-dfw3-dfw5-allen-tx,CyrusOne DFW3-DFW5 (Allen),operational,Trump,48085,Other,50.0,reported,reported,50.0,50.0,50.0
+cyrusone-sat2-sat4-san-antonio-tx,CyrusOne SAT2-SAT4 (San Antonio),operational,Harris,48029,Other,,reported,model estimate,42.79560936754779,411.3502516631943,3742.844328198558
+data-city-energy-abundance-laredo-tx,"Data City, Texas",proposed,Trump,48479,Other,5000.0,rumored,reported,5000.0,5000.0,5000.0
+edged-dallas-irving-tx,Edged Dallas (Irving),operational,Harris,48113,Other,,reported,model estimate,39.7324553395069,402.663312272408,3831.506789252925
+flexential-dallas-plano-tx,Flexential Dallas - Plano,operational,Trump,48085,Other,,reported,model estimate,39.550703221359896,408.30933267707474,3753.499884512357
+fluidstack-abernathy-tx,Fluidstack Abernathy AI Campus,under_construction,Trump,48189,Other,168.0,confirmed,reported,168.0,168.0,168.0
+fort-spunky-pacifico-energy-hood-county-tx,Fort Spunky,proposed,Trump,48221,Other,100.0,reported,reported,100.0,100.0,100.0
+gw-ranch-pacifico-energy-pecos-county-tx,GW Ranch,proposed,Trump,48371,Other,7650.0,rumored,reported,7650.0,7650.0,7650.0
+galaxy-helios-dickens-county-tx,Galaxy Helios Data Center Campus,under_construction,Trump,48125,Other,1630.0,confirmed,reported,1630.0,1630.0,1630.0
+google-armstrong-county-tx,Goodnight Campus,under_construction,Trump,48011,Google,933.0,confirmed,reported,933.0,933.0,933.0
+google-haskell-county-tx,Google Haskell County Data Center Campus,under_construction,Trump,48207,Google,,confirmed,model estimate,45.18741529982337,463.380225049675,3964.667302034019
+google-meitner-pampa-tx,Google Meitner Energy Center,under_construction,Trump,48179,Google,,confirmed,model estimate,46.07569668565406,465.23609650164497,3739.0395700300232
+google-red-oak-tx,Google Red Oak Campus,operational,Trump,48139,Google,,confirmed,model estimate,67.44951245269603,292.0462613949195,1145.4240377647197
+google-wilbarger-vernon-tx,Google Wilbarger County Campus,under_construction,Trump,48487,Google,,confirmed,model estimate,45.6908132510671,447.3794515915115,3671.1259798333176
+galaxy-helios-dickens-tx,Helios (Galaxy Digital / CoreWeave),operational,Trump,48125,Other,800.0,reported,reported,800.0,800.0,800.0
+hut8-beacon-point-robstown-tx,Hut 8 Beacon Point AI Campus,under_construction,Trump,48355,Other,352.0,confirmed,reported,352.0,352.0,352.0
+iren-horizon-childress-tx,"IREN Horizon — Childress, TX",under_construction,Trump,48075,Other,750.0,confirmed,reported,750.0,750.0,750.0
+iren-sweetwater-tx,IREN Sweetwater Campus,under_construction,Trump,48353,Other,2000.0,confirmed,reported,2000.0,2000.0,2000.0
+lambda-aligned-plano-tx,Lambda Plano AI Data Center (Aligned DFW-04),under_construction,Trump,48085,Other,100.0,confirmed,reported,100.0,100.0,100.0
+lancium-crusoe-abilene-tx,Lancium Clean Campus (Crusoe / Stargate Site 1),operational,Trump,48441,Other,1200.0,reported,reported,1200.0,1200.0,1200.0
+msb-matrix-center-sulphur-springs-tx,Matrix Data Center Campus (The Matrix Center),under_construction,Trump,48223,Other,3000.0,confirmed,reported,3000.0,3000.0,3000.0
+meta-el-paso-tx,Meta El Paso AI Data Center Campus,under_construction,Harris,48141,Meta,1000.0,confirmed,reported,1000.0,1000.0,1000.0
+meta-fort-worth-tx,Meta Fort Worth Data Center,operational,Trump,48439,Meta,,reported,model estimate,60.05761206114302,240.50077530409996,1032.6892176059318
+meta-temple-tx,Meta Temple Data Center,operational,Trump,48027,Meta,,confirmed,model estimate,100.79306018148307,406.20660505068076,1623.1334313035961
+microsoft-pecos-tx,Microsoft Pecos Data Center Campus,proposed,Trump,48389,Microsoft,2000.0,confirmed,reported,2000.0,2000.0,2000.0
+microsoft-san-antonio-expansion-tx,Microsoft San Antonio SAT89/SAT90 Data Centers,under_construction,Trump,48325,Microsoft,,reported,model estimate,38.307649947041725,386.8416613887808,3325.3672420608445
+nexus-hubbard-campus-hill-county-tx,Nexus Hubbard Data Center & Power Campus,under_construction,Trump,48217,Other,612.0,reported,reported,612.0,612.0,612.0
+poolside-project-horizon-pecos-county-tx,Poolside Project Horizon AI Campus,proposed,Trump,48371,Other,2000.0,reported,reported,2000.0,2000.0,2000.0
+powerhouse-uhland-caldwell-county-tx,PowerHouse Caldwell County Data Center,proposed,Trump,48055,Other,4000.0,reported,reported,4000.0,4000.0,4000.0
+powerhouse-provident-grand-prairie-tx,PowerHouse Grand Prairie Campus,under_construction,Trump,48139,Other,1800.0,confirmed,reported,1800.0,1800.0,1800.0
+prime-dfw01-01-tx,Prime DFW01-01,operational,Harris,48113,Other,,reported,model estimate,42.383349201843544,411.9891923789437,3774.3398999392502
+rcm-hill-project-aquila-hill-county-tx,Project Aquila,proposed,Trump,48217,Other,1235.0,confirmed,reported,1235.0,1235.0,1235.0
+ampz-project-lufkin-tx,Project Lufkin,proposed,Trump,48005,Other,2100.0,reported,reported,2100.0,2100.0,2100.0
+fermi-matador-amarillo-tx,Project Matador,under_construction,Trump,48065,Other,,reported,model estimate,905.2797928314603,3266.7141855525106,8348.300453323067
+rowan-temple-tx,Rowan Project Temple,under_construction,Trump,48027,Other,300.0,confirmed,reported,300.0,300.0,300.0
+serverfarm-houston-hou-tx,Serverfarm Houston AI Campus (HOU1 / HOU2),proposed,Harris,48201,Other,500.0,reported,reported,500.0,500.0,500.0
+skybox-houston-one-tx,Skybox Houston One,operational,Harris,48201,Other,,reported,model estimate,14.865435261848726,55.71869524712336,224.8187320514085
+soluna-project-grace-silverton-tx,Soluna Project Grace,under_construction,Trump,48045,Other,2.0,reported,reported,2.0,2.0,2.0
+soluna-project-kati-willacy-tx,Soluna Project Kati,under_construction,Trump,48489,Other,166.0,confirmed,reported,166.0,166.0,166.0
+stargate-abilene-tx,Stargate Abilene,under_construction,Trump,48441,Other,1200.0,reported,reported,1200.0,1200.0,1200.0
+stargate-milam-county-tx,Stargate Milam County Campus,under_construction,Trump,48331,Other,1200.0,reported,reported,1200.0,1200.0,1200.0
+switch-the-rock-round-rock-tx,Switch: The Rock (Round Rock),under_construction,Trump,48491,Other,185.0,reported,reported,185.0,185.0,185.0
+tesla-cortex-2-giga-texas-austin-tx,Tesla Cortex 2.0 AI Training Cluster (Giga Texas),under_construction,Harris,48453,Other,500.0,reported,reported,500.0,500.0,500.0
+tcdc-ector-county-tx,Texas Critical Data Centers (TCDC),proposed,Trump,48135,Other,250.0,reported,reported,250.0,250.0,250.0
+tract-caldwell-valley-uhland-tx,Tract Caldwell Valley Technology Park,proposed,Trump,48055,Other,2000.0,confirmed,reported,2000.0,2000.0,2000.0
+vantage-frontier-shackelford-county-tx,Vantage Frontier Campus,under_construction,Trump,48417,Vantage,1400.0,reported,reported,1400.0,1400.0,1400.0
+creekstone-delta-ut,Creekstone Energy Delta Gigasite,under_construction,Trump,49027,Other,10000.0,reported,reported,10000.0,10000.0,10000.0
+cyrusone-dugway-proving-ground-tooele-county-ut,CyrusOne Dugway Proving Ground Data Center,proposed,Trump,49045,Other,,reported,model estimate,314.8999983240861,1169.4248525619932,4443.23222833963
+joule-millard-county-ut,Joule Energy and Data Center Campus,under_construction,Trump,49027,Other,4000.0,reported,reported,4000.0,4000.0,4000.0
+meta-eagle-mountain-ut,Meta Eagle Mountain Data Center Campus,operational,Trump,49049,Meta,,confirmed,model estimate,115.93111585711213,487.42079648473305,2034.6386465676824
+qts-eagle-mountain-ut,QTS Eagle Mountain Data Center Campus,under_construction,Trump,49049,QTS,200.0,reported,reported,200.0,200.0,200.0
+stratos-box-elder-ut,Stratos AI Data Center Campus,proposed,Trump,49003,Other,9000.0,reported,reported,9000.0,9000.0,9000.0
+aws-mattermeade-caroline-va,AWS Mattermeade Tech Campus,proposed,Trump,51033,Amazon,770.0,confirmed,reported,770.0,770.0,770.0
+aligned-iad-01-va,Aligned IAD-01,operational,Harris,51107,Other,,reported,model estimate,41.19979073358267,417.16459412860576,3316.416471048507
+aligned-iad-03-va,Aligned IAD-03,operational,Harris,51107,Other,,reported,model estimate,41.01320290964391,399.32419867517797,3675.7611463712865
+amazon-devlin-tech-park-va,Amazon Devlin Technology Park,permitted,Harris,51153,Amazon,,confirmed,model estimate,79.76903398445758,318.1762221105596,1319.9969978866511
+powerhouse-chirisa-chester-va,Chirisa Technology Park — Richmond (Chester),under_construction,Harris,51041,Other,120.0,confirmed,reported,120.0,120.0,120.0
+cleanarc-ruther-glen-va,CleanArc VA1,under_construction,Trump,51033,Other,900.0,confirmed,reported,900.0,900.0,900.0
+cloudhq-manassas-mcc-va,CloudHQ Manassas MCC Campus,under_construction,Harris,51153,Other,382.0,confirmed,reported,382.0,382.0,382.0
+coresite-va1-reston-va-va,"CoreSite VA1 - Reston, VA",operational,Harris,51059,Other,,reported,model estimate,43.15404782708177,414.271282486371,3561.3531708305477
+coresite-va3-reston-va-va,"CoreSite VA3 - Reston, VA",operational,Harris,51059,Other,,reported,model estimate,38.88163179796126,412.5228050333187,3616.289281798119
+culpeper-brandy-station-va,Culpeper Acquisitions Brandy Station Campus (denied),cancelled,Trump,51047,Other,,reported,model estimate,46.38082707405593,432.88332833623355,3801.7824556952114
+dc-blox-henrico-county-va,DC Blox Henrico County Campus (withdrawn),cancelled,Harris,51087,Other,50.0,confirmed,reported,50.0,50.0,50.0
+edgecore-shannon-hill-louisa-va,EdgeCore Shannon Hill Data Center Campus,proposed,Trump,51109,Other,1100.0,reported,reported,1100.0,1100.0,1100.0
+equinix-ashburn-va,Equinix Ashburn Campus (DC1–DC15),operational,Harris,51107,Other,,confirmed,model estimate,43.261446952136644,396.6895615725512,3386.4144010170303
+corscale-gainesville-crossing-va,Gainesville Crossing Digital Campus (GCDC),under_construction,Harris,51153,Other,300.0,confirmed,reported,300.0,300.0,300.0
+google-arcola-loudoun-va,Google Arcola Data Center (Loudoun County),operational,Harris,51107,Google,,reported,model estimate,46.01825915533726,187.17113759573252,743.8536046296118
+google-loch-midlothian-va,Google Project Loch,permitted,Harris,51041,Google,,confirmed,model estimate,143.13297560207604,546.6676187386216,2312.6787231023286
+iron-mountain-white-oak-henrico-va,Iron Mountain White Oak Technology Park Campus,proposed,Harris,51087,Other,200.0,confirmed,reported,200.0,200.0,200.0
+microsoft-bristow-mnz03-va,Microsoft Bristow Data Center Campus (MNZ03),operational,Harris,51153,Microsoft,,reported,model estimate,35.8111243165116,148.2366541885338,586.4072458449173
+tract-mountain-road-technology-park-hanover-va,Mountain Road Technology Park,cancelled,Trump,51085,Other,900.0,confirmed,reported,900.0,900.0,900.0
+powerhouse-95-spotsylvania-va,PowerHouse 95,under_construction,Trump,51177,Other,800.0,reported,reported,800.0,800.0,800.0
+powerhouse-ctp-02-va,PowerHouse CTP-02,under_construction,Harris,51041,Other,50.0,reported,reported,50.0,50.0,50.0
+prince-william-digital-gateway-va,Prince William Digital Gateway,cancelled,Harris,51153,QTS,,confirmed,model estimate,449.3963011853768,1798.1960661416974,6517.116911694255
+qts-white-oak-technology-park-ii-henrico-va,QTS White Oak Technology Park II (RIC5),permitted,Harris,51087,QTS,,confirmed,model estimate,199.97634091196267,786.1590904955785,3246.5398643180633
+stack-nova-loudoun-va,STACK NVA Loudoun 144MW Hyperscale Campus,permitted,Harris,51107,Other,144.0,confirmed,reported,144.0,144.0,144.0
+sabey-intergate-ashburn-building-a-va,Sabey Intergate.Ashburn (Building A),under_construction,Harris,51107,Other,54.0,reported,reported,54.0,54.0,54.0
+solis-arx-progress-park-wythe-va,Solis Arx Progress Park Data Center Campus,proposed,Trump,51197,Other,,reported,model estimate,44.60061295745633,416.36295249389144,3891.5381684790937
+tract-tuckahoe-technology-park-goochland-county-va,Tuckahoe Technology Park,proposed,Trump,51075,Other,900.0,reported,reported,900.0,900.0,900.0
+vantage-stafford-va4-va,Vantage Data Centers VA4 Stafford Campus,under_construction,Harris,51179,Vantage,192.0,confirmed,reported,192.0,192.0,192.0
+wise-innovation-hub-wise-va,Wise Innovation Hub (OASIS),proposed,Trump,51195,Other,600.0,reported,reported,600.0,600.0,600.0
+aws-wallula-gap-walla-walla-wa,AWS Wallula Gap Campus,proposed,Trump,53071,Amazon,300.0,confirmed,reported,300.0,300.0,300.0
+microsoft-east-wenatchee-wa,Microsoft East Wenatchee Data Center,operational,Trump,53017,Microsoft,180.0,reported,reported,180.0,180.0,180.0
+microsoft-malaga-wa,Microsoft Malaga Campus,under_construction,Trump,53007,Microsoft,288.0,confirmed,reported,288.0,288.0,288.0
+pnnl-ai-data-center-richland-wa,PNNL AI Data Center,proposed,Trump,53005,Other,2.0,reported,reported,2.0,2.0,2.0
+apricus-west-plains-spokane-wa,West Plains Large-Load Data Center,proposed,Trump,53063,Other,500.0,rumored,reported,500.0,500.0,500.0
+viridian-apecs-janesville-wi,APECS Data Center Campus (Former GM Assembly Plant),proposed,Harris,55105,Other,800.0,confirmed,reported,800.0,800.0,800.0
+cassville-grant-county-wi,Cassville Data Center Campus (Undisclosed Developer),cancelled,Trump,55043,Other,,reported,model estimate,166.693559283594,642.5268319148239,2524.743179611663
+dpo-wisconsin-rapids-hpc-wi,DPO Wisconsin Rapids AI Computing Facility,proposed,Trump,55141,Other,20.0,reported,reported,20.0,20.0,20.0
+menomonie-data-center-wi,Menomonie Data Center Campus,proposed,Trump,55033,Other,,reported,model estimate,122.14475067582433,466.8229270759789,1717.5890958875123
+meta-beaver-dam-wi,Meta Beaver Dam Data Center Campus,under_construction,Trump,55027,Meta,220.0,confirmed,reported,220.0,220.0,220.0
+microsoft-kenosha-wi,Microsoft Kenosha Data Center Campus,proposed,Trump,55059,Microsoft,,confirmed,model estimate,81.38634353613259,331.80956557632896,1312.4784217703004
+microsoft-mount-pleasant-wi,Microsoft Mount Pleasant Data Center Campus,operational,Trump,55101,Microsoft,1000.0,reported,reported,1000.0,1000.0,1000.0
+netsonic-green-bay-wi,Netsonic Green Bay Data Center,operational,Trump,55009,Other,,reported,model estimate,45.273834048182614,413.95387282176597,3802.7815689515483
+qts-dane-county-deforest-wi,QTS Dane County Hyperscale Campus (DeForest),cancelled,Harris,55025,QTS,,confirmed,model estimate,188.99168518913604,759.350238707895,3132.4861607930034
+stargate-port-washington-wi,Stargate Lighthouse Campus,under_construction,Trump,55089,Vantage,902.0,reported,reported,902.0,902.0,902.0
+stonebridge-pacific-columbia-county-wi,Stonebridge Pacific AI Data Center (Columbia County),cancelled,Trump,55021,Other,,reported,model estimate,43.80330619709491,425.7751996833931,3682.462408654877
+pch-wi-holdings-wisconsin-rapids-wood-county-wi,Wisconsin Rapids Data Center,proposed,Trump,55141,Other,,reported,model estimate,85.25335023523157,332.93656878022506,1310.4046299205602
+penzance-bedington-berkeley-county-wv,Bedington Campus,proposed,Trump,54003,Other,600.0,confirmed,reported,600.0,600.0,600.0
+nscale-monarch-mason-county-wv,Monarch Compute Campus,proposed,Trump,54053,Other,2000.0,confirmed,reported,2000.0,2000.0,2000.0
+meta-cheyenne-wy,Meta Cheyenne Data Center,under_construction,Trump,56021,Meta,109.0,confirmed,reported,109.0,109.0,109.0
+microsoft-cheyenne-expansion-wy,Microsoft Cheyenne Mega-Campus Expansion,permitted,Trump,56021,Microsoft,,reported,model estimate,586.5310492820443,2261.332889417686,7226.974893588034
+tallgrass-project-jade-cheyenne-wy,Project Tembo,under_construction,Trump,56021,Google,2700.0,reported,reported,2700.0,2700.0,2700.0
+prometheus-hyperscale-evanston-wy,Prometheus Hyperscale Atlas Industrial Park Data Center Campus,permitted,Trump,56041,Other,1250.0,confirmed,reported,1250.0,1250.0,1250.0
+prometheus-hyperscale-casper-wy,Prometheus Hyperscale Falls Ranch Data Center Campus,proposed,Trump,56009,Other,1500.0,reported,reported,1500.0,1500.0,1500.0
+related-digital-cheyenne-wy,Related Digital Cheyenne Data Center Campus,under_construction,Trump,56021,Other,302.0,confirmed,reported,302.0,302.0,302.0

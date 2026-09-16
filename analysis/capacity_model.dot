@@ -1,0 +1,12 @@
+digraph {
+  graph [bgcolor=transparent, rankdir=LR]
+  subgraph cluster_stage { label="stage effects"; stage_z [label="stage_z Normal(0,1)"]; stage_sd [label="stage_sd HalfNormal(1)"]; stage_effect [label="stage_effect = stage_z x stage_sd"]; stage_z -> stage_effect; stage_sd -> stage_effect }
+  subgraph cluster_operator { label="operator effects"; operator_z [label="operator_z Normal(0,1)"]; operator_sd [label="operator_sd HalfNormal(1)"]; operator_effect [label="operator_effect = operator_z x operator_sd"]; operator_z -> operator_effect; operator_sd -> operator_effect }
+  intercept [label="intercept Normal(log 300,2)"]
+  area_effect [label="area_effect Normal(0.7,0.7)"]
+  sigma [label="sigma HalfNormal(1.5)"]
+  observed [label="observed log(MW)"]
+  missing [label="posterior predictive log(MW)\nmissing projects\n0.1–10,000 MW"]
+  intercept -> observed; stage_effect -> observed; operator_effect -> observed; area_effect -> observed; sigma -> observed
+  intercept -> missing; stage_effect -> missing; operator_effect -> missing; area_effect -> missing; sigma -> missing
+}

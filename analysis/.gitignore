@@ -1,0 +1,9 @@
+.ipython/
+.mpl/
+.kernels/
+__pycache__/
+*.nc
+sources/election.html
+sources/independent_election.csv
+sources/mit_mirror.csv
+sources/population.csv

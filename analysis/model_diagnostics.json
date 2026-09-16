@@ -1,0 +1,29 @@
+{
+  "holdout": {
+    "max_rhat": 1.0054140461148642,
+    "min_bulk_ess": 1326.5677407677356,
+    "divergences": 0,
+    "chains": 4,
+    "draws_per_chain": 1000
+  },
+  "holdout_prediction": {
+    "n": 52,
+    "coverage_90": 0.8653846153846154,
+    "median_absolute_log_error": 0.567937587775269,
+    "median_multiplicative_error": 1.7646239139672466,
+    "actual_total_gw": 32.6562,
+    "predicted_total_gw_p05_median_p95": [
+      43.85504668263836,
+      57.42583146477327,
+      72.709888160753
+    ],
+    "stage_median_baseline_multiplicative_error": 2.581988897471611
+  },
+  "full": {
+    "max_rhat": 1.0032622154933761,
+    "min_bulk_ess": 1264.7032387691459,
+    "divergences": 0,
+    "chains": 4,
+    "draws_per_chain": 1000
+  }
+}

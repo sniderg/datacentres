@@ -1,0 +1,51 @@
+{
+  "years": [
+    2026,
+    2028,
+    2030,
+    2032,
+    2034,
+    2036
+  ],
+  "as_of": "2026-09-15",
+  "seed": 20260915,
+  "draws": 4000,
+  "reported_projects": 260,
+  "imputed_projects": 214,
+  "unknown_total_gw_p05_median_p95": [
+    148.3163391279533,
+    179.36738696622126,
+    217.88425886505578
+  ],
+  "proposed_target_gw_per_location_p05_median_p95": [
+    0.918000329027826,
+    0.9957135243786507,
+    1.1046311437626304
+  ],
+  "checks": "Passed: original MW retained; positive finite draws; operational-only baseline; cancelled=0; nondecreasing trajectories; ordered intervals",
+  "exclusions": {
+    "population_unmatched_projects": [
+      "ne-edge-millstone-ct"
+    ]
+  },
+  "assumptions": {
+    "capacity_model": "lognormal with partial pooling by stage and operator plus standardized log-acreage; unknown acreage integrated as N(0,1); conditional missing-MW range 0.1\u201310000; no political size predictor",
+    "proposed_approval": "neutral=0.5; proportional=Trump vote share of all ballots; winner_step=0.75/0.25",
+    "post_approval_realization": "Beta(8,2), mean 0.8, shared per simulation",
+    "permitted_realization": "Beta(16,4), mean 0.8, shared per simulation",
+    "construction_realization": "Beta(19,1), mean 0.95, shared per simulation",
+    "time_to_operation_median_years": {
+      "proposed": 4,
+      "permitted": 3,
+      "under_construction": 2
+    },
+    "time_uncertainty": "log SD 0.45 per project; common lognormal shock with log SD 0.2",
+    "ramp": "median clip(3*sqrt(target MW/500),1,10) years; log SD .35 and shared schedule shock",
+    "first_phase": "Uniform(0.1,0.3) fraction of target at opening",
+    "operational_baseline": "Beta(8,2) fraction of reported/imputed target; remaining capacity ramps; baseline is also modelled",
+    "resident_accounting": "All county residents receive county operating MW / county population; county residents counted once",
+    "intensity_denominator": "Fixed union of non-cancelled tracked host counties with 2024 population; also report dynamic operating-host denominator",
+    "structural": "Fixed pipeline and county winners; no new announcements, closures, population growth, grid constraint or demand cap",
+    "intervals": "90% simulation intervals conditional on scenario; not calibrated forecast coverage"
+  }
+}

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "ne-edge-millstone-ct",
+    "state": "CT",
+    "selected": "New London County",
+    "alternate": "Southeastern Connecticut Planning Region",
+    "mw": 300.0,
+    "winner": "Harris",
+    "alternate_fips": null,
+    "alternate_winner": null
+  },
+  {
+    "id": "meta-stanton-springs-newton-ga",
+    "state": "GA",
+    "selected": "Newton County",
+    "alternate": "Walton County",
+    "mw": null,
+    "winner": "Harris",
+    "alternate_fips": "13297",
+    "alternate_winner": "Trump"
+  },
+  {
+    "id": "northern-data-maysville-ga",
+    "state": "GA",
+    "selected": "Jackson County",
+    "alternate": "Banks County",
+    "mw": 180.0,
+    "winner": "Trump",
+    "alternate_fips": "13011",
+    "alternate_winner": "Trump"
+  },
+  {
+    "id": "tpa-social-circle-technology-park-ga",
+    "state": "GA",
+    "selected": "Newton County",
+    "alternate": "Walton County",
+    "mw": null,
+    "winner": "Harris",
+    "alternate_fips": "13297",
+    "alternate_winner": "Trump"
+  },
+  {
+    "id": "terawulf-muskie-eastpark-ky",
+    "state": "KY",
+    "selected": "Greenup County",
+    "alternate": "Boyd County",
+    "mw": 1000.0,
+    "winner": "Trump",
+    "alternate_fips": "21019",
+    "alternate_winner": "Trump"
+  },
+  {
+    "id": "applied-digital-delta-forge-1-la",
+    "state": "LA",
+    "selected": "Rapides Parish",
+    "alternate": "Grant Parish",
+    "mw": 300.0,
+    "winner": "Trump",
+    "alternate_fips": "22043",
+    "alternate_winner": "Trump"
+  },
+  {
+    "id": "google-project-mica-kc-northland-mo",
+    "state": "MO",
+    "selected": "Clay County",
+    "alternate": "Platte County",
+    "mw": 500.0,
+    "winner": "Trump",
+    "alternate_fips": "29165",
+    "alternate_winner": "Trump"
+  },
+  {
+    "id": "meta-kansas-city-northland-mo",
+    "state": "MO",
+    "selected": "Clay County",
+    "alternate": "Platte County",
+    "mw": null,
+    "winner": "Trump",
+    "alternate_fips": "29165",
+    "alternate_winner": "Trump"
+  },
+  {
+    "id": "natelli-new-hill-nc",
+    "state": "NC",
+    "selected": "Wake County",
+    "alternate": "Chatham County",
+    "mw": 300.0,
+    "winner": "Harris",
+    "alternate_fips": "37037",
+    "alternate_winner": "Harris"
+  },
+  {
+    "id": "drox-group-rural-hall-forsyth-county-nc",
+    "state": "NC",
+    "selected": "Forsyth County",
+    "alternate": "Stokes County",
+    "mw": null,
+    "winner": "Harris",
+    "alternate_fips": "37169",
+    "alternate_winner": "Trump"
+  },
+  {
+    "id": "google-nebraska-ai-campus-proposed",
+    "state": "NE",
+    "selected": "Otoe County",
+    "alternate": "Johnson County",
+    "mw": 1000.0,
+    "winner": "Trump",
+    "alternate_fips": "31097",
+    "alternate_winner": "Trump"
+  },
+  {
+    "id": "switch-citadel-storey-county-nv",
+    "state": "NV",
+    "selected": "Storey County",
+    "alternate": "Washoe County",
+    "mw": 650.0,
+    "winner": "Trump",
+    "alternate_fips": "32031",
+    "alternate_winner": "Harris"
+  },
+  {
+    "id": "riverview-innovation-tech-campus-tonawanda-ny",
+    "state": "NY",
+    "selected": "Erie County",
+    "alternate": "Niagara County",
+    "mw": 300.0,
+    "winner": "Harris",
+    "alternate_fips": "36063",
+    "alternate_winner": "Trump"
+  },
+  {
+    "id": "meta-prometheus-new-albany-oh",
+    "state": "OH",
+    "selected": "Licking County",
+    "alternate": "Franklin County",
+    "mw": 1000.0,
+    "winner": "Trump",
+    "alternate_fips": "39049",
+    "alternate_winner": "Harris"
+  },
+  {
+    "id": "powerhouse-provident-grand-prairie-tx",
+    "state": "TX",
+    "selected": "Ellis County",
+    "alternate": "Dallas County",
+    "mw": 1800.0,
+    "winner": "Trump",
+    "alternate_fips": "48113",
+    "alternate_winner": "Harris"
+  },
+  {
+    "id": "dc-blox-henrico-county-va",
+    "state": "VA",
+    "selected": "Henrico County",
+    "alternate": "Richmond city",
+    "mw": 50.0,
+    "winner": "Harris",
+    "alternate_fips": null,
+    "alternate_winner": null
+  },
+  {
+    "id": "edgecore-shannon-hill-louisa-va",
+    "state": "VA",
+    "selected": "Louisa County",
+    "alternate": "Goochland County",
+    "mw": 1100.0,
+    "winner": "Trump",
+    "alternate_fips": "51075",
+    "alternate_winner": "Trump"
+  },
+  {
+    "id": "iron-mountain-white-oak-henrico-va",
+    "state": "VA",
+    "selected": "Henrico County",
+    "alternate": "Richmond city",
+    "mw": 200.0,
+    "winner": "Harris",
+    "alternate_fips": null,
+    "alternate_winner": null
+  },
+  {
+    "id": "microsoft-malaga-wa",
+    "state": "WA",
+    "selected": "Chelan County",
+    "alternate": "Kittitas County",
+    "mw": 288.0,
+    "winner": "Trump",
+    "alternate_fips": "53037",
+    "alternate_winner": "Trump"
+  },
+  {
+    "id": "prometheus-hyperscale-casper-wy",
+    "state": "WY",
+    "selected": "Converse County",
+    "alternate": "Natrona County",
+    "mw": 1500.0,
+    "winner": "Trump",
+    "alternate_fips": "56025",
+    "alternate_winner": "Trump"
+  }
+]

@@ -101,7 +101,9 @@ function renderSummary() {
           1000
       : null;
   });
+  const intensityRatio = rates[0] != null && rates[1] ? rates[0] / rates[1] : null;
   document.getElementById("weighting-cards").innerHTML =
+    `<div class="weighting-card intensity headline-metric"><h3>Reported MW per 1,000 residents</h3><div class="weighting-numbers"><span class="weighting-stat-large trump">${rates[0] == null ? "—" : rates[0].toFixed(2)}</span><span class="weighting-stat-large harris">${rates[1] == null ? "—" : rates[1].toFixed(2)}</span></div><div class="metric-note">Trump-won / Harris-won counties${intensityRatio == null ? "" : ` · ${intensityRatio.toFixed(2)}× ratio`}</div><p>Population counted once per county with known MW. ${s.capacityCounties.length} counties; ${fmtNum(sum(s.capacityCounties, "population_2024"))} residents. Unknown MW excluded; reported capacity may be incomplete. This is infrastructure intensity, not measured community harm.</p></div>` +
     card(
       "Capacity-weighted vote share",
       weighted(s.mwRows, (f) => f.mw),
@@ -126,6 +128,5 @@ function renderSummary() {
       "Capacity × population index",
       weighted(s.covered, (f) => f.mw * f.population_2024),
       "Exploratory weighting by reported MW × county residents. This intentionally gives more weight to large projects in populous counties; no causal or burden interpretation.",
-    ) +
-    `<div class="weighting-card intensity"><h3>Reported MW per 1,000 residents</h3><div class="weighting-numbers"><span class="weighting-stat-large trump">${rates[0] == null ? "—" : rates[0].toFixed(2)}</span><span class="weighting-stat-large harris">${rates[1] == null ? "—" : rates[1].toFixed(2)}</span></div><div class="metric-note">Trump-won / Harris-won counties</div><p>Population counted once per county with known MW. ${s.capacityCounties.length} counties; ${fmtNum(sum(s.capacityCounties, "population_2024"))} residents. Unknown MW excluded; reported capacity may be incomplete. This is infrastructure intensity, not measured community harm.</p></div>`;
+    );
 }

@@ -35,12 +35,14 @@
 
     <!-- Embedded Data -->
     <script defer src="data.js"></script>
+    <script defer src="model_data.js"></script>
     <link rel="stylesheet" href="styles.css" />
     <script defer src="js/state.js"></script>
     <script defer src="js/metrics.js"></script>
     <script defer src="js/map.js"></script>
     <script defer src="js/table.js"></script>
     <script defer src="js/charts.js"></script>
+    <script defer src="js/outlook.js"></script>
     <script defer src="js/app.js"></script>
   </head>
   <body>
@@ -64,9 +66,10 @@
       <nav class="section-nav" aria-label="Sections">
         <a href="#explore">01 <span>Explore</span></a
         ><a href="#patterns">02 <span>Patterns</span></a
-        ><a href="#measures">03 <span>Measures</span></a
-        ><a href="#facilities">04 <span>Facilities</span></a
-        ><a href="#methodology">05 <span>Sources</span></a>
+        ><a href="#outlook">03 <span>2030 outlook</span></a
+        ><a href="#measures">04 <span>Measures</span></a
+        ><a href="#facilities">05 <span>Facilities</span></a
+        ><a href="#methodology">06 <span>Sources</span></a>
       </nav>
 
       <div class="kpi-grid" id="summary-cards"></div>
@@ -304,10 +307,74 @@
         </div>
       </section>
 
+      <section class="outlook-section" id="outlook" aria-labelledby="outlook-title">
+        <div class="section-intro outlook-heading">
+          <div>
+            <span class="eyebrow">03 / Modelled outlook</span>
+            <h2 id="outlook-title">Capacity operating by 2030</h2>
+          </div>
+          <div class="outlook-control">
+            <label for="outlook-scenario">Proposed-project approval</label>
+            <select id="outlook-scenario" class="filter-select">
+              <option value="proportional">Proportional to Trump vote share</option>
+              <option value="neutral">Neutral · 50% approval</option>
+              <option value="winner_step">Winner-take-all county · 75% / 25%</option>
+            </select>
+          </div>
+        </div>
+        <p class="outlook-deck">
+          The scenario estimates how much of the currently tracked pipeline could be
+          operating—not merely announced—in two-year steps. Reported MW stays fixed;
+          missing MW is estimated with a hierarchical PyMC model.
+        </p>
+        <div class="outlook-kpis" id="outlook-kpis"></div>
+        <p class="scope-note" id="outlook-note" role="status"></p>
+        <div class="outlook-charts">
+          <article class="chart-card outlook-chart-card">
+            <h3>Operating capacity over time</h3>
+            <div class="chart-subtitle">Median GW with 90% simulation intervals.</div>
+            <div class="chart-container outlook-chart">
+              <canvas id="chart-outlook-capacity" role="img" aria-label="Modelled operating capacity by county winner from 2026 to 2036"></canvas>
+            </div>
+          </article>
+          <article class="chart-card outlook-chart-card">
+            <h3>Capacity per 1,000 host-county residents</h3>
+            <div class="chart-subtitle">Fixed 2024 population denominator; residents counted once per county.</div>
+            <div class="chart-container outlook-chart">
+              <canvas id="chart-outlook-intensity" role="img" aria-label="Modelled operating megawatts per 1,000 residents by county winner from 2026 to 2036"></canvas>
+            </div>
+          </article>
+        </div>
+        <div class="model-method-grid">
+          <article class="model-card">
+            <div>
+              <span class="eyebrow">Model structure</span>
+              <h3>How unknown project sizes are estimated</h3>
+              <p>
+                Log capacity has a shared intercept, partially pooled stage and
+                operator effects, a standardized acreage effect and residual
+                uncertainty. Political variables do not predict project size.
+              </p>
+              <p class="model-warning">
+                Validation covered 86.5% of held-out projects in the nominal 90%
+                interval, but aggregate held-out capacity was overpredicted. Treat
+                totals as exploratory conditional scenarios, not calibrated forecasts.
+              </p>
+              <p class="model-links">
+                <a href="analysis/county_pipeline_review.html">Open the full review</a>
+                <span>·</span>
+                <a href="analysis/capacity_model.dot">Graphviz source</a>
+              </p>
+            </div>
+            <img src="assets/capacity_model.svg" alt="Hierarchy of the PyMC project-capacity model" />
+          </article>
+        </div>
+      </section>
+
       <section class="weighting-section" id="measures">
         <div class="section-intro">
           <div>
-            <span class="eyebrow">03 / Measures</span>
+            <span class="eyebrow">04 / Measures</span>
             <h2>Different weights, different pictures</h2>
           </div>
         </div>
@@ -420,7 +487,7 @@
       </section>
 
       <section class="insights-section" id="methodology">
-        <span class="eyebrow">05 / Sources</span>
+        <span class="eyebrow">06 / Sources</span>
         <h2>Sources &amp; methodology</h2>
         <div class="insights-grid">
           <div class="insight-card">
@@ -454,10 +521,10 @@
           <div class="insight-card">
             <h4>Join limitations</h4>
             <p>
-              Original election matches use state and normalized county names,
-              then attach FIPS codes; coordinates have not been independently
-              checked. North Slope’s manually entered election tally remains
-              unverified. New London County has no matching geography in the
+              Election tallies for El Paso County, Colorado; DeKalb County,
+              Illinois; and Jackson County, Missouri were corrected against official
+              state or local returns. North Slope’s manually entered election tally
+              remains unverified. New London County has no matching geography in the
               Census 2024 county file and is excluded from population metrics.
             </p>
           </div>
