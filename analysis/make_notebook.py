@@ -117,7 +117,7 @@ Four chains are checked for convergence and divergences. A fixed random 20% samp
 """),
 md("""### PyMC hierarchy printout
 
-PyMC's direct Graphviz export is retained as [capacity_model.dot](capacity_model.dot), with a rendered hierarchy diagram below. The printout is the exact DOT source emitted by the fitted model, so the hierarchy remains inspectable even if a local Graphviz renderer is unavailable.
+PyMC's direct Graphviz export is retained locally as `capacity_model.dot`, with a rendered hierarchy diagram below. The printout is the exact DOT source emitted by the fitted model, so the hierarchy remains inspectable even if a local Graphviz renderer is unavailable.
 
 ![PyMC model hierarchy](capacity_model.svg)
 """),

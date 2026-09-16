@@ -3,3 +3,6 @@ __pycache__/
 .DS_Store
 *_screenshot.png
 screenshot_*.png
+
+# Local model export; not published with GitHub Pages.
+analysis/capacity_model.dot
